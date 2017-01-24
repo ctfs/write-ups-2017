@@ -13,4 +13,4 @@ Continue on from part 2
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/avlidienbrunn/ctf-writeups/tree/master/insomnihackteaser-2017

@@ -13,4 +13,4 @@ Machines infected lots of Android smartphones and try to collect information on 
 
 ## Other write-ups and resources
 
-* none yet
+* https://russtone.io/2017/01/23/isomnihack-teaser-2017-mindreader/

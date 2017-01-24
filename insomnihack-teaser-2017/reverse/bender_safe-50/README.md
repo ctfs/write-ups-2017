@@ -18,4 +18,5 @@ Running chrooted on: <bender_safe.teaser.insomnihack.ch:31337>
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2017-01-21-insomnihack/bender_safe
+* https://amritabi0s.wordpress.com/2017/01/23/insomnihack-teaser-2017-bender_safe-writeup/

@@ -15,4 +15,5 @@ Running on: <shobot.teaser.insomnihack.ch>
 
 ## Other write-ups and resources
 
-* none yet
+* http://matthieukeller.com/2017/01/insomnihack-teaser-2017.html#shobot
+* https://jiulongw.github.io/post/insomnihack-2017-shobot/

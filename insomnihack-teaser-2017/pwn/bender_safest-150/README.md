@@ -19,4 +19,4 @@ Running chrooted on: <bender_safe.teaser.insomnihack.ch:31337>
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/Jinmo/ctfs/blob/master/insomnihack17/bender_safe.py

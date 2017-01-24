@@ -17,4 +17,7 @@ Note: All the information you need to solve the 3 parts of this challenge is in 
 
 ## Other write-ups and resources
 
-* none yet
+* https://shankaraman.wordpress.com/2017/01/22/insomnihack-2017-forensics-the-great-escape-part-1-writeup/
+* https://jiulongw.github.io/post/insomnihack-2017-the-great-escape/
+* http://matthieukeller.com/2017/01/insomnihack-teaser-2017.html#the-great-escape-part-1
+* https://github.com/p4-team/ctf/tree/master/2017-01-21-insomnihack/the_great_escape1
