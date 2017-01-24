@@ -2,7 +2,7 @@
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/ctfs/write-ups) [![Reddit](https://img.shields.io/badge/reddit-yes-blue.svg)](https://www.reddit.com/r/securityCTF) [![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/write_ups)
 
-![External Coverage](https://www.dropbox.com/s/wiinfaaxjkc65q9/external_coverage.svg?raw=1) ![Internal Coverage](https://www.dropbox.com/s/rpt5yzirl05k8ih/internal_coverage.svg?raw=1)
+![External Coverage](https://www.dropbox.com/s/o8ypp8qzj1h2fan/2017_external_coverage.svg?raw=1) ![Internal Coverage](https://www.dropbox.com/s/4vn3lq5m2vifmg5/2017_internal_coverage.svg?raw=1)
 
 There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
 
