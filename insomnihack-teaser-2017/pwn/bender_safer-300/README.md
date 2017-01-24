@@ -10,7 +10,7 @@ He told me he can even remember my stuff like my credit
 card number and pin code! You should try it too!
 Now that you have my OTP is there any way to get flag2.txt ?
 Files to run the chall : [here](../../reverse/bender_safe-50/bender_safe.tgz)
-Running chrooted on: <bender_safe.teaser.insomnihack.ch:31337>
+Running chrooted on: bender_safe.teaser.insomnihack.ch:31337
 
 ## Write-up
 

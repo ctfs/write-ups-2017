@@ -10,7 +10,7 @@ He told me he can even remember my stuff like my credit
 card number and pin code! You should try it too!
 Unfortunately I lost my OTP token... No one can access it now :-(
 Files to run the chall : [here](bender-safe.tgz)
-Running chrooted on: <bender_safe.teaser.insomnihack.ch:31337>
+Running chrooted on: bender_safe.teaser.insomnihack.ch:31337
 
 ## Write-up
 
