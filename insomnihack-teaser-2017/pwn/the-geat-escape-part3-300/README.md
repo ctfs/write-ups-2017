@@ -14,3 +14,4 @@ Continue on from part 2
 ## Other write-ups and resources
 
 * https://github.com/avlidienbrunn/ctf-writeups/tree/master/insomnihackteaser-2017
+* http://blog.rh0gue.com/2017-01-22-insomnihack-escape3/

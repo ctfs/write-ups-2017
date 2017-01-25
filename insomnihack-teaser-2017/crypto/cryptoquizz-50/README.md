@@ -22,3 +22,4 @@ Running on <quizz.teaser.insomnihack.ch:1031>
 * https://github.com/tahaSuleyman/InsomnihackTeaser2017-cryptoquizz.git
 * http://rawsec.ml/en/Insomnihack-2017-Teaser-cryptoquizz/
 * https://github.com/p4-team/ctf/tree/master/2017-01-21-insomnihack/cryptoquizz
+* https://github.com/grrr83/Insomni-hack-teaser-2017/tree/master/cryptoquizz#cryptoquizz

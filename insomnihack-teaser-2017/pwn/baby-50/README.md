@@ -19,3 +19,4 @@ Running on: <baby.teaser.insomnihack.ch:1337>
 * https://piggybird.net/2017/01/insomnihack-teaser-2017-baby-write-pwn-50/
 * https://github.com/r00ta/myWriteUps/tree/master/INSOMNIHACKteaser2017/pwn50
 * https://amritabi0s.wordpress.com/2017/01/23/insomnihack-teaser-2017-baby-writeup/
+* http://pastebinthehacker.blogspot.com.au/2017/01/insomnihack-2017-baby.html
