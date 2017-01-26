@@ -20,3 +20,4 @@ Running on: <baby.teaser.insomnihack.ch:1337>
 * https://github.com/r00ta/myWriteUps/tree/master/INSOMNIHACKteaser2017/pwn50
 * https://amritabi0s.wordpress.com/2017/01/23/insomnihack-teaser-2017-baby-writeup/
 * http://pastebinthehacker.blogspot.com.au/2017/01/insomnihack-2017-baby.html
+* http://powerhacker.net/viewtopic.php?f=10&t=726&sid=d0d25e23a386f37294e492f07832f99b
