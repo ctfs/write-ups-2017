@@ -22,3 +22,4 @@ Note: All the information you need to solve the 3 parts of this challenge is in 
 * http://matthieukeller.com/2017/01/insomnihack-teaser-2017.html#the-great-escape-part-1
 * https://github.com/p4-team/ctf/tree/master/2017-01-21-insomnihack/the_great_escape1
 * https://github.com/grrr83/Insomni-hack-teaser-2017/tree/master/TheGreatEscape-part1#the-great-escape---part-1
+* https://jbzteam.github.io/ctf/InsomnihackTeaser2017-TheGreatEscapePT1
