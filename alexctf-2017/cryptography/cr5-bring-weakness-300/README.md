@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * http://r.rogdham.net/28
