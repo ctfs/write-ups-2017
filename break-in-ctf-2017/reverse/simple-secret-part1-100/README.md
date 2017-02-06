@@ -16,4 +16,6 @@ Link to executable: [here](a.out)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/pogTeam/writeups/tree/master/2017/BreakIn/Simple%20Secret%20-%20Part%201
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/simple_secret_part_1
+* https://www.youtube.com/watch?v=5pdTP4njNis

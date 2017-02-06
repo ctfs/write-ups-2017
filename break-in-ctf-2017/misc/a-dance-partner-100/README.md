@@ -15,4 +15,4 @@ Link to Jumbo Maze: [here](https://drive.google.com/drive/folders/0Bw-aSVx60ZiOR
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/a_dance_partner

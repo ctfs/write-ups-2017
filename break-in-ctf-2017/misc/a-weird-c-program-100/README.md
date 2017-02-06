@@ -14,4 +14,5 @@ Link to C program: [here](program.cpp)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/a_weird_c_program
+* https://github.com/pogTeam/writeups/tree/master/2017/BreakIn/A%20weird%20C%20program

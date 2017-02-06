@@ -15,4 +15,6 @@ Challenge link: [here](https://felicity.iiit.ac.in/contest/extra/fastandfurious/
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.youtube.com/watch?v=pmIVF0sxTUI
+* https://github.com/pogTeam/writeups/tree/master/2017/BreakIn/Fast%20and%20Furious
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/fast_and_furious

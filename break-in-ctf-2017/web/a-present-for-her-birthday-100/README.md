@@ -13,4 +13,6 @@ Yesterday was Animesh's best friend's (at least he thinks so) birthday. Animesh 
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/pogTeam/writeups/tree/master/2017/BreakIn/A%20present%20for%20her%20Birthday
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/a_present_for_her_birthday
+* https://www.youtube.com/watch?v=uIfjNOZmvzs

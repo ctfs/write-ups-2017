@@ -14,4 +14,4 @@ It is known that Saumya usually checks the details of people coming to the party
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/wild_card_entry

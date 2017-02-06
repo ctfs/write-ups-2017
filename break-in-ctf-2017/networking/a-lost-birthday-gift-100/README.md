@@ -13,4 +13,4 @@ The birthday party of Saumya had already started (without inviting Animesh), but
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/breakin_2017/a_lost_birthday_gift
