@@ -5,7 +5,9 @@
 
 ## Completed write-ups
 
-* none yet
+* [web/hello-world-100](web/hello-world-100)
+* [web/a-present-for-her-birthday-100](web/a-present-for-her-birthday-100)
+* [web/fast-and-furious-100](web/fast-and-furious-100)
 
 ## External write-ups only
 
@@ -14,10 +16,7 @@
 * [networking/a-lost-birthday-gift-100](networking/a-lost-birthday-gift-100)
 * [misc/a-dance-partner-100](misc/a-dance-partner-100)
 * [misc/a-weird-c-program-100](misc/a-weird-c-program-100)
-* [web/hello-world-100](web/hello-world-100)
-* [web/a-present-for-her-birthday-100](web/a-present-for-her-birthday-100)
 * [web/wild-card-entry-100](web/wild-card-entry-100)
-* [web/fast-and-furious-100](web/fast-and-furious-100)
 
 ## Missing write-ups
 

@@ -9,7 +9,36 @@ Yesterday was Animesh's best friend's (at least he thinks so) birthday. Animesh 
 
 ## Write-up
 
-(TODO)
+When we visit the linked page we are presented with:
+
+	Sorry You are not allowed to visit this page.
+
+as there is nothing else to see, we take a look at the cookie:
+
+	birthday_invite=68934a3e9455fa72420237eb05902327
+
+Throwing this into python we get:
+
+	>>>cookie = "68934a3e9455fa72420237eb05902327"
+	>>>cookie.decode("hex")
+	"h\x93J>\x94U\xfarB\x027\xeb\x05\x90#'"
+
+Which doesn't get us any further. However, the cookie has the same
+length as a MD5 hash, so let's try to crack. You can use you favorite online
+MD5-database for that:
+
+	68934a3e9455fa72420237eb05902327 -> md5(false)
+
+So let's try to set our cookie to "true":
+
+	$ echo -n true | md5sum
+	b326b5062b2f0e69046810717534cb09
+
+Setting the cookie to this value and visiting the page again we see:
+
+	the_flag_is_6bdfde3455a864cde19362cc01da125f
+
+The flag is: the_flag_is_6bdfde3455a864cde19362cc01da125f
 
 ## Other write-ups and resources
 

@@ -11,7 +11,23 @@ Challenge link: [here](https://felicity.iiit.ac.in/contest/extra/fastandfurious/
 
 ## Write-up
 
-(TODO)
+The website outputs mathematical equations together with a field to sumbit the solution.
+
+	Level 1
+	
+	Solve: (92 + 30)
+	
+	Answer:_________
+	[Submit]
+
+If the solution is correct and was provided fast enough, the game continues with the next level.
+Whenever the answer was wrong, or the arrived too late the game restarts with level 1.
+
+The provided python script uses the request module to solve this challenge, the equations are
+solved with `eval`.
+After 200 levels the flag is retrieved:
+
+Flag: the_flag_is_6ffb242e3f65a2b51c36745b1cd591d1
 
 ## Other write-ups and resources
 

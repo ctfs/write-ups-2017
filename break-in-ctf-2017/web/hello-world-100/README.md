@@ -9,7 +9,24 @@ Can you find the flag?
 
 ## Write-up
 
-(TODO)
+A look in the page's source reveals:
+
+	<div>
+		<div class="row padded">
+			
+				<div class="my-bg offset1 col10 question-overlay">
+	                <h4>Question:</h4>
+					<h3>Hello world</h3>
+					<hr/>
+					<p class="question-text">Tags: <a href="#">#Web</a>
+	
+	<br>
+	
+	<br>
+	
+	Can you find the flag?<!--the_flag_is_ForeverYoung --></p>
+
+The flag is: the_flag_is_ForeverYoung
 
 ## Other write-ups and resources
 
