@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 50
-**Solves:** ???
+**Solves:** 432
 **Description:**
 
 (No description)

@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 200
-**Solves:** ???
+**Solves:** 255
 **Description:**
 
 > This time Fady decided to go for modern cryptography implementations, He is

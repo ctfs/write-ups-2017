@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 50
-**Solves:** ???
+**Solves:** 655
 **Description:**
 
 > Fady didn't understand well the difference between encryption and encoding,

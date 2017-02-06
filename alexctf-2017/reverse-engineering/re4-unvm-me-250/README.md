@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering
 **Points:** 250
-**Solves:** ???
+**Solves:** 334
 **Description:**
 
 > If I tell you what version of python I used .. where is the fun in that?

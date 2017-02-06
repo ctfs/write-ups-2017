@@ -2,7 +2,7 @@
 
 **Category:** Trivia
 **Points:** 20
-**Solves:** ???
+**Solves:** 719
 **Description:**
 
 > What is the CA that issued Alexctf https certificate

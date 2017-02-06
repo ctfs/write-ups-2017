@@ -2,7 +2,7 @@
 
 **Category:** Trivia
 **Points:** 40
-**Solves:** ???
+**Solves:** 531
 **Description:**
 
 (No description)

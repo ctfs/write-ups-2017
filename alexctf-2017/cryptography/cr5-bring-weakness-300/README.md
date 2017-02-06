@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 300
-**Solves:** ???
+**Solves:** 76
 **Description:**
 
 > We got this PRNG as the most secure random number generator for cryptography.

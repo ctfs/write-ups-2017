@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering
 **Points:** 50
-**Solves:** ???
+**Solves:** 870
 **Description:**
 
 (No description)

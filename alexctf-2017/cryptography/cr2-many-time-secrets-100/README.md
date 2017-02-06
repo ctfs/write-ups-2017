@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 100
-**Solves:** ???
+**Solves:** 302
 **Description:**
 
 > This time Fady learned from his old mistake and decided to use onetime pad as

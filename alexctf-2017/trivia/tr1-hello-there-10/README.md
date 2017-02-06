@@ -2,7 +2,7 @@
 
 **Category:** Trivia
 **Points:** 10
-**Solves:** ???
+**Solves:** 454
 **Description:**
 
 > Why not drop us a few lines and say hi :).

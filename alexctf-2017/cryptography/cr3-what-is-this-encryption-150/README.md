@@ -2,7 +2,7 @@
 
 **Category:** Cryptography
 **Points:** 150
-**Solves:** ???
+**Solves:** 388
 **Description:**
 
 > Fady assumed this time that you will be so n00b to tell what encryption he is

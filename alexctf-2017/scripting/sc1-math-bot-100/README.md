@@ -2,7 +2,7 @@
 
 **Category:** Scripting
 **Points:** 100
-**Solves:** ???
+**Solves:** 563
 **Description:**
 
 > It is well known that computers can do tedious math faster than human.

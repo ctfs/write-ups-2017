@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 100
-**Solves:** ???
+**Solves:** 104
 **Description:**
 
 > I am not sure what version of thunderbird was that...

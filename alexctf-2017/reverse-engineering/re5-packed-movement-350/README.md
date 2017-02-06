@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering
 **Points:** 350
-**Solves:** ???
+**Solves:** 99
 **Description:**
 
 > Being said that move instruction is enough to build a complete computer,

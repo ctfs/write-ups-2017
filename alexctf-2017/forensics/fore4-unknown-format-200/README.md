@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 200
-**Solves:** ???
+**Solves:** 54
 **Description:**
 
 > Once more our agents managed to sniff data passed over USB, they told us that

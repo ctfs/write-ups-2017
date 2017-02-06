@@ -2,7 +2,7 @@
 
 **Category:** Scripting
 **Points:** 150
-**Solves:** ???
+**Solves:** 132
 **Description:**
 
 > yeah steganography challenges are the worst... that's why we got only ~~one

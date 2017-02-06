@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering
 **Points:** 100
-**Solves:** ???
+**Solves:** 346
 **Description:**
 
 > They say C++ is complex, prove them wrong!
