@@ -11,6 +11,7 @@
 
 * [pwn/baby-50](pwn/baby-50)
 * [pwn/the-geat-escape-part3-300](pwn/the-geat-escape-part3-300)
+* [pwn/winworld-500](pwn/winworld-500)
 * [pwn/bender_safest-150](pwn/bender_safest-150)
 * [reverse/bender_safe-50](reverse/bender_safe-50)
 * [reverse/internet-of-fail-400](reverse/internet-of-fail-400)
@@ -24,7 +25,6 @@
 ## Missing write-ups
 
 * [pwn/bender_safer-300](pwn/bender_safer-300)
-* [pwn/winworld-500](pwn/winworld-500)
 * [pwn/mod_toaster-250](pwn/mod_toaster-250)
 * [forensic/secret-in-200](forensic/secret-in-200)
 * [crypto/encryptor-400](crypto/encryptor-400)

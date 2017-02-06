@@ -23,4 +23,4 @@ This will ensure that both westworld.txt and flag.txt can be read by the AppCont
 
 ## Other write-ups and resources
 
-* none yet
+* https://blog.scrt.ch/2017/01/27/exploiting-a-misused-c-shared-pointer-on-windows-10/

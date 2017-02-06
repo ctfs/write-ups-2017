@@ -18,3 +18,4 @@ Running on: <shobot.teaser.insomnihack.ch>
 * http://matthieukeller.com/2017/01/insomnihack-teaser-2017.html#shobot
 * https://jiulongw.github.io/post/insomnihack-2017-shobot/
 * http://losfuzzys.github.io/writeup/2017/01/22/insomnihack-shobot/
+* https://atomheartother.github.io/cybersecurity/2017/01/26/Shobot.html
