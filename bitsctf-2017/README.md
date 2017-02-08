@@ -1,7 +1,7 @@
 # BITSCTF 2017 write-ups
 
 * <https://bitsctf.bits-quark.org/>
-* [Scoreboard](https://bitsctf.bits-quark.org/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://bitsctf.bits-quark.org/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
