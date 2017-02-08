@@ -23,3 +23,4 @@ Running chrooted on: bender_safe.teaser.insomnihack.ch:31337
 * http://inaz2.hatenablog.com/entry/2017/01/23/204039 (Japanese)
 * https://advancedpersistentjest.com/2017/01/23/writeup-bender_safe-insomnihack-2017-teaser/
 * https://blahcat.github.io/2017/01/26/insomni-hack-ctf-2017-bender-safe/
+* http://70ry.tistory.com/entry/insomnihack-CTF-bendersafe
