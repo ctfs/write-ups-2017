@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * http://rawsec.ml/en/AlexCTF-2017-write-ups/#20-TR2-SSL-0day-Trivia

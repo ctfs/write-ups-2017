@@ -26,4 +26,14 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * https://team-nawhack.fr/2017/02/06/alexctf-2017-cr3-what-is-this-encryption/
+ * https://0xd13a.github.io/ctfs/alexctf2017/what-is-this-encryption
+ * http://thu11d3r.blogspot.com/2017/02/bits-ctf-2017crypto-150p-what-is-this.html
+ * https://blog.passwd.ninja/index.php/2017/02/05/alexctf-2017-cr3-what-is-this-encryption/
+ * http://writeups.ctflearn.com/alexctf-writeups-2/
+ * https://github.com/Ne0Lux-C1Ph3r/WRITE-UP/blob/master/AlexCTF/CR3:_What_is_this_encryption.md
+ * https://isitdtu.blogspot.com/2017/02/alexctf-crypto-3.html
+ * https://github.com/pogTeam/writeups/blob/master/2017/AlexCTF/cr3/cr3.py
+ * https://neolex.tuxfamily.org/2017/02/06/alexctf-what-is-the-encryption-crypto150/
+ * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/CR3
+ * https://drive.google.com/open?id=0B6pr1LpSJl7iQ0ZNV0NET1liaUE

@@ -13,4 +13,7 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * https://team-nawhack.fr/2017/02/06/alexctf-2017-fore1-hit-the-core/
+ * http://thu11d3r.blogspot.com/2017/02/bits-ctf-2017forensic-50p-hit-core.html
+ * https://drive.google.com/open?id=0B6pr1LpSJl7iNng0emJkeko4aDQ
+ * http://writeups.ctflearn.com/alexctf-writeups-2/

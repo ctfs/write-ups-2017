@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * http://duksctf.github.io/ALEXCTF2017-Unknown-Forat/
+ * https://advancedpersistentjest.com/2017/02/06/writeups-catalyst-unvm-me-unknown-format-mailclient/
+ * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/fore4

@@ -15,4 +15,9 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * http://fadec0d3.blogspot.com/2017/02/alexctf-2017-forensics-scripting.html
+ * https://github.com/Vigneshwaran16/write-ups-ALEX-CTFhttps://github.com/Vigneshwaran16/write-ups-ALEX-CTF
+ * http://thu11d3r.blogspot.com/2017/02/bits-ctf-2017forensic-150p-usb-probbing.html
+ * https://duksctf.github.io/ALEXCTF2017-Unknown-Forat/
+ * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/fore3
+ * https://shankaraman.wordpress.com/2017/02/06/alex-ctf-usb-probing-forensics-3-150-writeup/

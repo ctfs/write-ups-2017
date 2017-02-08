@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * http://rawsec.ml/en/AlexCTF-2017-write-ups/#30-TR3-CA-Trivia

@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
- * none yet
+ * http://rawsec.ml/en/AlexCTF-2017-write-ups/#10-TR1-Hello-there-Trivia
+ * https://www.youtube.com/watch?v=feF_7l74CU4
