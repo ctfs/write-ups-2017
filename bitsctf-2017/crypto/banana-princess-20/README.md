@@ -16,4 +16,5 @@ Authors - Speeeddy, Blaze
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/bitsctf_2017/banana_princess
+* http://fadec0d3.blogspot.com/2017/02/bitsctf-2017-crypto-banana-princess-20.html

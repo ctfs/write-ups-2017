@@ -13,4 +13,4 @@ We are trying to study the Black Holes. One of the most controversial theory rel
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/bitsctf_2017/black_hole

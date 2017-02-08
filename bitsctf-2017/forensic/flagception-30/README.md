@@ -17,4 +17,5 @@ Flag format: BITSCTF{a1phanum3r1c_w0rds}
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/bitsctf_2017/flagception
+* https://github.com/The-Byte-Surgeons/CTF-Writeups/tree/master/2017-02-04_BITSCTF/flagception

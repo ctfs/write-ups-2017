@@ -16,4 +16,5 @@ Flag format: BITCTF{a1phanum3ric_w0rds}
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/bitsctf_2017/mission_improbable
+* http://r00tus3r.blogspot.in/2017/02/bits-ctf-2017.html

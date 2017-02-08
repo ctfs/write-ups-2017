@@ -16,4 +16,9 @@ joking.bitsctf.bits-quark.org
 
 ## Other write-ups and resources
 
-* none yet
+* http://fadec0d3.blogspot.com/2017/02/bitsctf-2017-web-batman-vs-joker.html
+* http://h4ck4s3cur1ty.tistory.com/7
+* https://github.com/USCGA/writeups/tree/master/online_ctfs/bitsctf_2017/batman_vs_joker
+* http://rawsec.ml/en/BITSCTF-2017-writeups/#30-Batman-vs-Joker-Web
+* https://ctftime.org/writeup/5344
+

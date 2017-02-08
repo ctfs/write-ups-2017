@@ -15,4 +15,4 @@ nc bitsctf.bits-quark.org 1330
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/5347

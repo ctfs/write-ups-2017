@@ -14,4 +14,4 @@ Flag format: BITS(WORDS.IN.CAPS)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2017-02-04-bitsctf/ghost_in_the_machine

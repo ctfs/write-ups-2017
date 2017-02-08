@@ -9,10 +9,6 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [pwn/random-game-30](pwn/random-game-30)
 * [pwn/command_line-20](pwn/command_line-20)
 * [reverse/mission-improbable-20](reverse/mission-improbable-20)
@@ -25,14 +21,17 @@
 * [forensic/flagception-30](forensic/flagception-30)
 * [forensic/remember-me-60](forensic/remember-me-60)
 * [misc/labour-20](misc/labour-20)
-* [misc/enjoy-the-music-60](misc/enjoy-the-music-60)
-* [misc/good-samaritan-50](misc/good-samaritan-50)
 * [crypto/enigma-30](crypto/enigma-30)
 * [crypto/sherlock-60](crypto/sherlock-60)
-* [crypto/fanfie-20](crypto/fanfie-20)
 * [crypto/banana-princess-20](crypto/banana-princess-20)
 * [crypto/beginners-luck-40](crypto/beginners-luck-40)
 * [web/batman-vs-joker-30](web/batman-vs-joker-30)
 * [web/botbot-10](web/botbot-10)
-* [web/showcasing-the-admin-80](web/showcasing-the-admin-80)
 * [web/message-the-admin-60](web/message-the-admin-60)
+
+## Missing write-ups
+
+* [misc/enjoy-the-music-60](misc/enjoy-the-music-60)
+* [misc/good-samaritan-50](misc/good-samaritan-50)
+* [crypto/fanfie-20](crypto/fanfie-20)
+* [web/showcasing-the-admin-80](web/showcasing-the-admin-80)

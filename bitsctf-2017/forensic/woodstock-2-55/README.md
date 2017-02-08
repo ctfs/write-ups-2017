@@ -14,4 +14,6 @@ Flag format: BITSCTF{a1num_w0rds}
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.youtube.com/watch?v=zRPWhUBXpf8
+* https://github.com/p4-team/ctf/tree/master/2017-02-04-bitsctf/woodstock
+

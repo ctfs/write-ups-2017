@@ -14,10 +14,11 @@
 ― Alexandra Potter, Don't You Forget About Me
 
 [remember_me.sav.xz](https://bitsctf.bits-quark.org/files/f8c4cac835b8b257f9484e13bd7aaff5/remember_me.sav.xz)
+
 ## Write-up
 
 (TODO)
 
 ## Other write-ups and resources
 
-* none yet
+* http://ox002147.gitlab.io/writeup-bitsctf-for60.html

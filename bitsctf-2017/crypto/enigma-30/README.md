@@ -15,4 +15,5 @@ Its World War II and Germans have been using Enigma to encrypt their messages. O
 
 ## Other write-ups and resources
 
-* none yet
+* http://fadec0d3.blogspot.com/2017/02/bitsctf-2017-crypto-banana-princess-20.html
+* https://github.com/p4-team/ctf/tree/master/2017-02-04-bitsctf/enigma
