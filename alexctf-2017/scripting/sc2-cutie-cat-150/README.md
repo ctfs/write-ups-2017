@@ -10,7 +10,11 @@
 
 ## Write-up
 
-(TODO)
+If you don't already have it, just googling "python steganography" yields this module for steganography: [https://pypi.python.org/pypi/steganography/0.1.1]. After `pip install steganography`, simply run:  
+`$ steganography -d cat-with-secrets.png`  
+
+After a few seconds, we get the flag:  
+`ALEXCTF{CATS_HIDE_SECRETS_DONT_THEY}`
 
 ## Other write-ups and resources
 
