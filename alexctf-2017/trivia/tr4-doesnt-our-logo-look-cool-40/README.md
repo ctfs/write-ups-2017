@@ -9,7 +9,18 @@
 
 ## Write-up
 
-(TODO)
+After copy and pasting the ALEXCTF logo into a file `logo`, it's easy to observe that it includes a lot of whitespace. So to get ride of the whitespace:  
+`cat logo | tr -d [:space:]`  
+
+and we see that while the file is much smaller, it includes a bunch of odd characters with some letters sprinkled around. We can carefully build up an expression with `sed` that will replace the weird characters with nothing:  
+```cat logo | tr -d [:space:] | sed s/[@\'\`+\.:#\;,]//g```
+* the syntax is s/string-to-replace/string-to-replace-with/
+* the ending `g` means "global" since it's all one line
+* the `[]` means to find any of the characters inside (e.g. `@` or `'` instead of both in a row)
+* note that some characters need to be escaped: ``` ' . ; ` ```
+
+and our flag is:  
+`ALEXCTF{0UR_L0G0_R0CKS}`
 
 ## Other write-ups and resources
 

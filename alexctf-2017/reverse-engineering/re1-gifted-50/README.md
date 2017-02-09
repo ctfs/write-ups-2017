@@ -9,7 +9,11 @@
 
 ## Write-up
 
-(TODO)
+This is the first re challenge, so it's fairly simple. All we need to do is:  
+`$ strings gifted`  
+
+And among a few unintelligible strings and prompts, we find the flag:  
+`AlexCTF{Y0u_h4v3_45t0n15h1ng_futur3_1n_r3v3r5ing}`
 
 ## Other write-ups and resources
 
