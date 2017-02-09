@@ -14,4 +14,4 @@ Brute and get the base 32 format of flag.
 
 ## Other write-ups and resources
 
-* none yet
+* https://codisec.com/bitsctf-2017-fanfie/

@@ -21,3 +21,4 @@ botbot.bitsctf.bits-quark.org
 * http://rawsec.ml/en/BITSCTF-2017-writeups/#10-BotBot-web
 * https://pwnable.io/bitsctf-botbot/
 * https://ctftime.org/writeup/5343
+* https://isitdtu.blogspot.com/2017/02/bitsctf-2017-botbot-web-10.html
