@@ -25,3 +25,4 @@ And among a few unintelligible strings and prompts, we find the flag:
  * http://70ry.tistory.com/entry/AlexCTF-Reverse-Engineering
  * https://www.youtube.com/watch?v=Rgd2WxvyugM
  * http://writeups.ctflearn.com/alexctf-writeups-2/
+ * http://drizbit.com/post/alexctf-reverse-engineering-2017/

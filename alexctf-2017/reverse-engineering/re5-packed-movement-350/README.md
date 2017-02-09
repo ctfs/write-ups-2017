@@ -19,3 +19,4 @@
  * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/AlexCTF-2017/Reversing/RE5%20-%20Packed%20Movement%20(350)
  * https://duksctf.github.io/ALEXCTF2017-packed-movement/
  * http://ddddhkim.github.io/
+ * http://drizbit.com/post/alexctf-reverse-engineering-2017/

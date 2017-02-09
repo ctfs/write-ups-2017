@@ -25,3 +25,4 @@
  * https://www.youtube.com/watch?v=uzyK2oiIhtU
  * http://70ry.tistory.com/entry/AlexCTF-Reverse-Engineering
  * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/re2
+ * http://drizbit.com/post/alexctf-reverse-engineering-2017/
