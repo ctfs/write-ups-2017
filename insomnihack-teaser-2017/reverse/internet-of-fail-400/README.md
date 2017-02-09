@@ -14,3 +14,4 @@ The machines are already here, lurking in your things. They've learned to fool h
 ## Other write-ups and resources
 
 * https://github.com/p4-team/ctf/tree/master/2017-01-21-insomnihack/internet_of_fail
+* https://phil242.wordpress.com/2017/02/07/inso2017-iof-400/
