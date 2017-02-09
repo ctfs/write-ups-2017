@@ -21,3 +21,4 @@
  * https://duksctf.github.io/ALEXCTF2017-Unknown-Forat/
  * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/fore3
  * https://shankaraman.wordpress.com/2017/02/06/alex-ctf-usb-probing-forensics-3-150-writeup/
+ * https://isitdtu.blogspot.com/2017/02/alexctf-2017-fore3-usb-probing.html
