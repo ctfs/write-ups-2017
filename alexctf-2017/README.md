@@ -12,7 +12,10 @@
 
 ## Completed write-ups
 
- * none yet
+ * [reverse-engineering/re1-gifted-50](reverse-engineering/re1-gifted-50)
+ * [reverse-engineering/re4-unvm-me-250](reverse-engineering/re4-unvm-me-250)
+ * [scripting/sc2-cutie-cat-150](scripting/sc2-cutie-cat-150)
+ * [trivia/tr4-doesnt-our-logo-look-cool-40](trivia/tr4-doesnt-our-logo-look-cool-40)
 
 ## External write-ups only
 
@@ -21,7 +24,6 @@
  * [cryptography/cr5-bring-weakness-300](cryptography/cr5-bring-weakness-300)
  * [forensics/fore2-mail-client-100](forensics/fore2-mail-client-100)
  * [reverse-engineering/re2-cpp-is-awesome-100](reverse-engineering/re2-cpp-is-awesome-100)
- * [reverse-engineering/re4-unvm-me-250](reverse-engineering/re4-unvm-me-250)
 
 ## Missing write-ups
 
@@ -30,12 +32,9 @@
  * [forensics/fore1-hit-the-core-50](forensics/fore1-hit-the-core-50)
  * [forensics/fore3-usb-probing-150](forensics/fore3-usb-probing-150)
  * [forensics/fore4-unknown-format-200](forensics/fore4-unknown-format-200)
- * [reverse-engineering/re1-gifted-50](reverse-engineering/re1-gifted-50)
  * [reverse-engineering/re3-catalyst-system-150](reverse-engineering/re3-catalyst-system-150)
  * [reverse-engineering/re5-packed-movement-350](reverse-engineering/re5-packed-movement-350)
  * [scripting/sc1-math-bot-100](scripting/sc1-math-bot-100)
- * [scripting/sc2-cutie-cat-150](scripting/sc2-cutie-cat-150)
  * [trivia/tr1-hello-there-10](trivia/tr1-hello-there-10)
  * [trivia/tr2-ssl-0day-20](trivia/tr2-ssl-0day-20)
  * [trivia/tr3-ca-20](trivia/tr3-ca-20)
- * [trivia/tr4-doesnt-our-logo-look-cool-40](trivia/tr4-doesnt-our-logo-look-cool-40)
