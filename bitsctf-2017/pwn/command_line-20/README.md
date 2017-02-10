@@ -16,3 +16,4 @@ nc bitsctf.bits-quark.org 1330
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/5347
+* https://nacayoshi00.wordpress.com/2017/02/09/bitsctf-writeup/

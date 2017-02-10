@@ -17,3 +17,4 @@ http://msgtheadmin.bitsctf.bits-quark.org/
 
 * http://fadec0d3.blogspot.com/2017/02/bitsctf-2017-web-batman-vs-joker.html
 * https://github.com/USCGA/writeups/tree/master/online_ctfs/bitsctf_2017/message_the_admin
+* https://nacayoshi00.wordpress.com/2017/02/09/bitsctf-writeup/

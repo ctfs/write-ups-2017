@@ -22,3 +22,4 @@ joking.bitsctf.bits-quark.org
 * http://rawsec.ml/en/BITSCTF-2017-writeups/#30-Batman-vs-Joker-Web
 * https://ctftime.org/writeup/5344
 * https://isitdtu.blogspot.com/2017/02/bitsctf-2017-batman-vs-joker-web-30.html
+* https://nacayoshi00.wordpress.com/2017/02/09/bitsctf-writeup/

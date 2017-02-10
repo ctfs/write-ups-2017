@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * https://github.com/The-Byte-Surgeons/CTF-Writeups/tree/master/2017-02-04_BITSCTF/Tom_and_Jerry
+* https://nacayoshi00.wordpress.com/2017/02/09/bitsctf-writeup/
