@@ -38,3 +38,5 @@
  * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/CR3
  * https://drive.google.com/open?id=0B6pr1LpSJl7iQ0ZNV0NET1liaUE
  * http://ronins.team/alexctf_cr3_what_is_this_encryption/
+ * https://ngaoopmeo.blogspot.com/2017/02/alex-ctf-2017writeupcr3-what-is-this.html
+ * http://dann.com.br/alexctf2k17-crypto150-what_is_this_encryption/

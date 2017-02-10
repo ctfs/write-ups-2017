@@ -25,3 +25,4 @@
  * https://github.com/ginjabenjamin/CTF/tree/master/AlexCTF/CR/CR4
  * https://blog.passwd.ninja/index.php/2017/02/05/alexctf-2017-cr4-poor-rsa-200/
  * https://github.com/Ne0Lux-C1Ph3r/WRITE-UP/blob/master/AlexCTF/CR4:_Poor_RSA.md
+ * http://dann.com.br/alexctf2k17-crypto200-poor_rsa/
