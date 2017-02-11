@@ -33,6 +33,8 @@ inputs[1].click();
 
 On clearing 200 levels, you get the response as: `the_flag_is_6ffb242e3f65a2b51c36745b1cd591d1`
 
+(See program `script.py` for complete solution)
+
 Clearly the flag is `6ffb242e3f65a2b51c36745b1cd591d1`
 
 
