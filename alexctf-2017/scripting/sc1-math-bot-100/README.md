@@ -21,6 +21,7 @@
 
 ## Other write-ups and resources
 
+ * http://badbytes.io/2017/02/07/alexctf-2017
  * https://isitdtu.blogspot.com/2017/02/alexctf-sc1math-bot.html
  * https://ngaoopmeo.blogspot.com/2017/02/alexctf-2017writeupsc1-math-bot.html
  * http://rawsec.ml/en/AlexCTF-2017-write-ups/#100-SC1-Math-bot-Scripting

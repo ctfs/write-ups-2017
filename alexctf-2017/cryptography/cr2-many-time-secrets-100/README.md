@@ -14,6 +14,7 @@
 
 ## Other write-ups and resources
 
+ * http://badbytes.io/2017/02/07/alexctf-2017
  * http://r.rogdham.net/28
  * http://ronins.team/alexctf_cr2_many_time_secrets/
  * http://fadec0d3.blogspot.com/2017/02/alexctf-2017-crypto.html
