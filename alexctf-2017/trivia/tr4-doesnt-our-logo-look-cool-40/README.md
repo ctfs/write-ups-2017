@@ -29,3 +29,4 @@ and our flag is:
  * https://blog.passwd.ninja/index.php/2017/02/05/alexctf-2017-logo/
  * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/tr4
  * https://www.youtube.com/watch?v=zczOyaXxGpQ
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/TR4-Doesnt_our_logo_look_cool/README.md

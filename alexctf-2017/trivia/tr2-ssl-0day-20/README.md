@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
  * http://rawsec.ml/en/AlexCTF-2017-write-ups/#20-TR2-SSL-0day-Trivia
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/TR2-SSL_0day/README.md

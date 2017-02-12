@@ -26,3 +26,4 @@ And among a few unintelligible strings and prompts, we find the flag:
  * https://www.youtube.com/watch?v=Rgd2WxvyugM
  * http://writeups.ctflearn.com/alexctf-writeups-2/
  * http://drizbit.com/post/alexctf-reverse-engineering-2017/
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/RE1-Gifted/README.md

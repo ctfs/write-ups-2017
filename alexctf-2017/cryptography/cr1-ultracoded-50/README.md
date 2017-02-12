@@ -27,3 +27,4 @@
  * https://www.youtube.com/watch?v=Zor5z-4w1_Y
  * https://neolex.tuxfamily.org/2017/02/06/alexctf-ultracoded-crypto50/
  * https://drive.google.com/open?id=0B6pr1LpSJl7iTkdqNkZWVkJNb2M
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/CR1-Ultracoded/README.md

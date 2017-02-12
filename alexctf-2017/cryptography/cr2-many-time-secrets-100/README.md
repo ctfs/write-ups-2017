@@ -22,3 +22,4 @@
  * http://writeups.ctflearn.com/alexctf-writeups-2/
  * https://github.com/pogTeam/writeups/blob/master/2017/AlexCTF/cr2/manyTimePadAttack.py
  * http://dann.com.br/alexctf2k17-crypto100-many_time_secrets/
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/CR2-Many_time_secrets/README.md

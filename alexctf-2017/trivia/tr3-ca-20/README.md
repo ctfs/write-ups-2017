@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
  * http://rawsec.ml/en/AlexCTF-2017-write-ups/#30-TR3-CA-Trivia
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/TR3-CA/README.md

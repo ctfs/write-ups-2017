@@ -15,3 +15,4 @@
 
  * http://rawsec.ml/en/AlexCTF-2017-write-ups/#10-TR1-Hello-there-Trivia
  * https://www.youtube.com/watch?v=feF_7l74CU4
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/TR1-Hello_there/README.md

@@ -34,3 +34,4 @@
  * https://www.youtube.com/watch?v=48WMBE1-n8w
  * http://70ry.tistory.com/entry/AlexCTF-Reverse-Engineering
  * https://drive.google.com/open?id=0B6pr1LpSJl7iNnY0cS1KdlJqbTg
+ * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/SC1-Mathbot/README.md
