@@ -23,3 +23,4 @@ joking.bitsctf.bits-quark.org
 * https://ctftime.org/writeup/5344
 * https://isitdtu.blogspot.com/2017/02/bitsctf-2017-batman-vs-joker-web-30.html
 * https://nacayoshi00.wordpress.com/2017/02/09/bitsctf-writeup/
+* https://github.com/nbrisset/CTF/blob/master/bitsctf-2017/challenges/batman-vs-joker-30

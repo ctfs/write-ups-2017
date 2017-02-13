@@ -18,3 +18,4 @@ Someone intercepted a chat between illustris and codelec
 * http://h4ck4s3cur1ty.tistory.com/8
 * https://github.com/p4-team/ctf/tree/master/2017-02-04-bitsctf/woodstock
 * http://thu11d3r.blogspot.com/2017/02/bits-ctf-2017-forensic-10p-woodstock-1.html
+* https://github.com/nbrisset/CTF/blob/master/bitsctf-2017/challenges/woodstock-10

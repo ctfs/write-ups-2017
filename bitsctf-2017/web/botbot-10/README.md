@@ -23,3 +23,4 @@ botbot.bitsctf.bits-quark.org
 * https://ctftime.org/writeup/5343
 * https://isitdtu.blogspot.com/2017/02/bitsctf-2017-botbot-web-10.html
 * https://nacayoshi00.wordpress.com/2017/02/09/bitsctf-writeup/
+* https://github.com/nbrisset/CTF/blob/master/bitsctf-2017/challenges/botbot-10
