@@ -13,6 +13,7 @@
 
 ## Other write-ups and resources
 
+ * http://badbytes.io/2017/02/07/alexctf-2017
  * http://r.rogdham.net/28
  * https://team-nawhack.fr/2017/02/07/alexctf-2017-re2/
  * https://ngaoopmeo.blogspot.com/2017/02/alexctf-2017write-upre2-c-is-awesomed.html

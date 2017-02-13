@@ -17,6 +17,7 @@
 
 ## Other write-ups and resources
 
+ * http://badbytes.io/2017/02/07/alexctf-2017
  * http://fadec0d3.blogspot.com/2017/02/alexctf-2017-crypto.html
  * https://team-nawhack.fr/2017/02/06/alexctf-2017-cr1-ultracoded/
  * https://0xd13a.github.io/ctfs/alexctf2017/ultracoded

@@ -17,6 +17,7 @@ And among a few unintelligible strings and prompts, we find the flag:
 
 ## Other write-ups and resources
 
+ * http://badbytes.io/2017/02/07/alexctf-2017
  * https://gospelofmark.ch/alex-ctf-re1-gifted.html
  * http://fadec0d3.blogspot.com/2017/02/alexctf-2017-reverse-engineering-gifted.html
  * https://ngaoopmeo.blogspot.com/2017/02/alexctf-2017write-upre1-gifted.html
