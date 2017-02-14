@@ -12,5 +12,8 @@
 
 ## Write-up
 
+TODO
+
 ## Other write-ups and resources
 
+* [http://crypto.rop.sh/post/71CBLOYIN034](http://crypto.rop.sh/post/71CBLOYIN034)
