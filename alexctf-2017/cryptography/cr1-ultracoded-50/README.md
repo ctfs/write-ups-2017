@@ -29,3 +29,4 @@
  * https://drive.google.com/open?id=0B6pr1LpSJl7iTkdqNkZWVkJNb2M
  * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/CR1-Ultracoded/README.md
  * http://www.aucyberclub.org/blog/2017/02/12/alexctfcr1writeup.html
+ * http://h4ck4s3cur1ty.tistory.com/9
