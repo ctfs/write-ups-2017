@@ -11,5 +11,9 @@
 
 ## Write-up
 
+TODO
+
 ## Other write-ups and resources
 
+* [https://github.com/Pistachiology/CTF-writeups-public/blob/master/codegate2017/goversing/test.py](https://github.com/Pistachiology/CTF-writeups-public/blob/master/codegate2017/goversing/test.py)
+* [https://github.com/x0r19x91/codegate-ctf](https://github.com/x0r19x91/codegate-ctf)
