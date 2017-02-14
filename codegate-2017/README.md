@@ -4,10 +4,10 @@
 * <https://ctftime.org/event/405>
 * Scoreboard TODO
 
-> Start date: Thursday, February 9th 2017, 19:00:00 EST
-> End date: Friday, February 10th 2017, 19:00:00 EST
-> IRC: #codegate2017 @freenode
-> Flag Format:
+> Start date: Thursday, February 9th 2017, 19:00:00 EST  
+> End date: Friday, February 10th 2017, 19:00:00 EST  
+> IRC: #codegate2017 @freenode  
+> Flag Format:  
 
 ## Completed write-ups
 
