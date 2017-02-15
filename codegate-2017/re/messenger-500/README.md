@@ -15,4 +15,4 @@
 ## Write-up
 
 ## Other write-ups and resources
-
+* https://gist.github.com/crixpwn/16dd13f42aabcf9122f74c535495ec31
