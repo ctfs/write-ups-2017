@@ -11,5 +11,8 @@
 
 ## Write-up
 
+TODO
+
 ## Other write-ups and resources
 
+* [https://github.com/0x90r00t/Write-Ups/blob/master/CodegateQuals2017/easycrack101/solve.py](https://github.com/0x90r00t/Write-Ups/blob/master/CodegateQuals2017/easycrack101/solve.py)
