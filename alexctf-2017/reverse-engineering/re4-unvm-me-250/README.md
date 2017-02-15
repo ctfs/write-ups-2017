@@ -100,3 +100,4 @@ So the flag is:
  * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/re4
  * https://ngaoopmeo.blogspot.com/2017/02/alexctf-2017writeupre4-unvm-me.html
  * http://drizbit.com/post/alexctf-reverse-engineering-2017/
+ * http://g4ngli0s.logdown.com/posts/1390245-alexctf2017-re4-unvm-me

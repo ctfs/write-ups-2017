@@ -19,3 +19,4 @@
  * http://writeups.ctflearn.com/alexctf-writeups-2/
  * https://isitdtu.blogspot.com/2017/02/alexctf-2017-fore1-hit-core-forensics-50.html
  * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/Fore1-Hit_the_core/README.md
+ * http://www.pogteam.com.br/2017/02/15/alexctf-2017-fore1-hit-the-core/

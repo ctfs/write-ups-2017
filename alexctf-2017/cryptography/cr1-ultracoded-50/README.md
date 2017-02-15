@@ -30,3 +30,4 @@
  * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/CR1-Ultracoded/README.md
  * http://www.aucyberclub.org/blog/2017/02/12/alexctfcr1writeup.html
  * http://h4ck4s3cur1ty.tistory.com/9
+ * http://www.pogteam.com.br/2017/02/15/alexctf-2017-cr1-ultracoded/
