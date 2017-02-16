@@ -18,6 +18,5 @@ TODO
 
 ## Other write-ups and resources
 
-* [https://github.com/0x90r00t/Write-Ups/blob/master/CodegateQuals2017/messenger/solve.py](https://github.com/0x90r00t/Write-Ups/blob/master/CodegateQuals2017/messenger/solve.py
-)
+* [https://github.com/0x90r00t/Write-Ups/blob/master/CodegateQuals2017/messenger/solve.py](https://github.com/0x90r00t/Write-Ups/blob/master/CodegateQuals2017/messenger/solve.py)
 * [https://gist.github.com/crixpwn/16dd13f42aabcf9122f74c535495ec31](https://gist.github.com/crixpwn/16dd13f42aabcf9122f74c535495ec31)
