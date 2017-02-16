@@ -11,5 +11,8 @@
 
 ## Write-up
 
+TODO
+
 ## Other write-ups and resources
 
+* https://nightst0rm.net/2017/02/codegate-2017-ramg/

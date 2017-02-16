@@ -22,6 +22,7 @@
 * [re/Hunting-500](re/Hunting-500)
 * [re/Hello-Protector-500](re/Hello-Protector-500)
 * [re/Goversing-500](re/Goversing-500)
+* [re/RamG-thunder-500](re/RamG-thunder-500)
 * [pwn/BabyMISC-500](pwn/BabyMISC-500)
 * [pwn/BabyPwn-500](pwn/BabyPwn-500)
 * [pwn/Meow-500](pwn/Meow-500)
@@ -31,5 +32,4 @@
 * [web/PNGParser-500](web/PNGParser-500)
 * [re/Dart-Master-500](re/Dart-Master-500)
 * [re/postbox-500](re/postbox-500)
-* [re/RamG-thunder-500](re/RamG-thunder-500)
 * [re/JS-World-500](re/JS-World-500)
