@@ -14,7 +14,7 @@ Note: when the flag is in your inventory, use "describe " to get the value.
 Hint for beez-fight: "Something is on-sale that might interest you :)"
 
 
-* game.rb
+* [game.rb](game.rb)
 
 
 ## Write-up
