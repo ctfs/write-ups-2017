@@ -1,7 +1,7 @@
 # BSides San Francisco CTF 2017 write-ups
 
 * <https://bsidessf.com/ctf.html>
-* [Scoreboard](https://scoreboard.ctf.bsidessf.com/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://scoreboard.ctf.bsidessf.com/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
