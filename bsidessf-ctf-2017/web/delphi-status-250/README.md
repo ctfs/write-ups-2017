@@ -1,11 +1,13 @@
 # BSides San Francisco CTF 2017 : delphi-status-250
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 250
+**Solves:** 59
 **Description:**
 
+There's a hidden flag in `/home/ctf/flag.txt!`
 
+<http://delphi-status-e606c556.ctf.bsidessf.net/>
 
 ## Write-up
 

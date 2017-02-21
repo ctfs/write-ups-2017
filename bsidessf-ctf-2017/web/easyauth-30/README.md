@@ -1,11 +1,15 @@
 # BSides San Francisco CTF 2017 : easyauth-30
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 30
+**Solves:** 328
 **Description:**
 
+Can you gain admin access to this site?
 
+<http://easyauth-afee0e67.ctf.bsidessf.net>
+
+* [easyauth.php](easyauth.php)
 
 ## Write-up
 
