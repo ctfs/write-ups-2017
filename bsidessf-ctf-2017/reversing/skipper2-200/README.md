@@ -1,11 +1,11 @@
 # BSides San Francisco CTF 2017 : skipper2-200
 
 **Category:** Reversing
-**Points:** 
+**Points:** 200
 **Solves:** 
 **Description:**
 
-
+TODO
 
 ## Write-up
 
