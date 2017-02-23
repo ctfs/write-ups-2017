@@ -20,4 +20,5 @@ Hint - "Ax25 will lead you in the direction"
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/sferrini/CTF/tree/master/2017/BSidesSF/Forensics/Latlong
+* http://g4ngli0s.logdown.com/posts/1422073-bsidessfctf-for-latlong

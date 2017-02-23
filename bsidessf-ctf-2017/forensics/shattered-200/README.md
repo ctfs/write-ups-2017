@@ -16,4 +16,4 @@ We think we found how they're exfiltrating our data. One of the network engineer
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/jrmdev/ctf-writeups/tree/master/bsidessf-2017/shattered

@@ -19,4 +19,10 @@ Three flags await. Can you find them?
 
 ## Other write-ups and resources
 
-* none yet
+* https://0day.work/bsidessf-ctf-2017-web-writeups/#zumbo1
+* http://fadec0d3.blogspot.com/2017/02/blog-post.html
+* https://appsec.engineer/bsides-san-francisco-writeup
+* https://www.youtube.com/watch?v=f0adnppfqF8
+* https://meem67.github.io/blog/2017-02-16/BSidesSF_writeups.html#Zumbo1
+* http://www.i4info.in/2017/02/17/Bsides-CTF/
+* http://www.pogteam.com.br/2017/02/19/bsides-2017-zumbo-123/

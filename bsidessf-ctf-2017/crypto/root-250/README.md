@@ -19,4 +19,5 @@ Note: Flag does not follow the "Flag:" format but is recognizable
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/jrmdev/ctf-writeups/tree/master/bsidessf-2017/%5B%5Droot
+* https://ctf.rip/bsides-sf-ctf-2017-root-crypto-challenge/

@@ -21,4 +21,4 @@ The flag is in /home/ctf/flag.txt
 
 ## Other write-ups and resources
 
-* none yet
+* https://xpnsec.tumblr.com/post/157252195561/bsidessf-ctf-b-64-b-tuff-walkthrough

@@ -16,4 +16,7 @@ Wait, what year is it?
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/BSides-San-Francisco-CTF-2017-write-ups/#100-the-year-2000-Web
+* https://thund3rblog.wordpress.com/2017/02/16/bsides-san-francisco-ctf-web-100-the-year-2000/
+* https://0day.work/bsidessf-ctf-2017-web-writeups/#theyear2000
+* https://github.com/R3dCr3sc3nt/BSidesSF-2017/blob/master/web/the-year-2000/README.md

@@ -21,4 +21,4 @@ You will need:
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ginjabenjamin/CTF/tree/master/BsidesSF/CR/in-plain-sight

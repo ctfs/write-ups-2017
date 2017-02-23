@@ -20,4 +20,4 @@ Blame iagox86 for this one :)
 
 ## Other write-ups and resources
 
-* none yet
+* http://karabut.com/bsides-ctf-2017-nibbler-writeup.html

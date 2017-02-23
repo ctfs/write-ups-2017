@@ -23,4 +23,4 @@ Hint for beez-fight: "Something is on-sale that might interest you :)"
 
 ## Other write-ups and resources
 
-* none yet
+* http://lockboxx.blogspot.com/2017/02/bsides-sf-ctf-2017-writeup-beez-fight.html

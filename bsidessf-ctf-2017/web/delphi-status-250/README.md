@@ -15,4 +15,5 @@ There's a hidden flag in `/home/ctf/flag.txt!`
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2017-02-12-bsidessf/delphi
+* https://github.com/jrmdev/ctf-writeups/tree/master/bsidessf-2017/delphi-status

@@ -13,4 +13,5 @@ TODO
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.youtube.com/watch?v=vZI3RYbFWj0&feature=youtu.be
+* http://70ry.tistory.com/entry/BSidesSF-Reversing

@@ -19,4 +19,5 @@ The flag is in /home/ctf/flag.txt
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.pogteam.com.br/2017/02/06/bsidessf-easyshell/
+* https://github.com/R3dCr3sc3nt/BSidesSF-2017/blob/master/pwn/easyshell/README.md

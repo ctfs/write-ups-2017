@@ -23,4 +23,5 @@ Can you gain admin access to this site?
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/BSides-San-Francisco-CTF-2017-write-ups/#450-vhash-Crypto
+* https://github.com/R3dCr3sc3nt/BSidesSF-2017/blob/master/crypto/vhash/README.md

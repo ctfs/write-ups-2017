@@ -19,4 +19,4 @@ The flag is in /home/ctf/flag.txt.
 
 ## Other write-ups and resources
 
-* none yet
+* http://g4ngli0s.logdown.com/posts/1418091-bsidessfctf-pwn-easyshell32-64

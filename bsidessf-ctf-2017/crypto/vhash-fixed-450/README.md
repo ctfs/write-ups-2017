@@ -20,4 +20,5 @@ Can you gain admin access to this site?
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2017-02-12-bsidessf/vhash
+* https://nightst0rm.net/2017/02/bsidessf-2017-baby-in-depth-writeup-challenge-vhash-fixed/

@@ -17,4 +17,4 @@ Hint: it starts with 'FLAG:'! Hint2: - The name is meaningful. What else can 'x'
 
 ## Other write-ups and resources
 
-* none yet
+* http://karabut.com/bsides-ctf-2017-ximage-writeup.html

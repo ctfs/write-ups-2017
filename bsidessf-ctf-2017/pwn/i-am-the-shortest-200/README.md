@@ -22,4 +22,4 @@ Good luck!
 
 ## Other write-ups and resources
 
-* none yet
+* http://look3little.blogspot.tw/2017/02/bsides-san-francisco-ctf-i-am-shortest.html

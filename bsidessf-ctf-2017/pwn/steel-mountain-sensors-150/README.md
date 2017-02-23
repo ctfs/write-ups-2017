@@ -20,4 +20,5 @@ Self-signed cert, SHA1 Fingerprint=55:36:0D:30:ED:9A:AF:42:EB:4F:73:E1:14:FF:1A:
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2017-02-12-bsidessf/sensors
+* https://xpnsec.tumblr.com/post/157278975756/bsidessf-ctf-steel-mountain-sensors-walkthrough

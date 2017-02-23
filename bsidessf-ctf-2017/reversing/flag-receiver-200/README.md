@@ -17,4 +17,5 @@ P.S, it is meant to have a blank landing activity :) Use string starting with Fl
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctf.rip/bsides-sf-ctf-2017-flag-receiver-mobile-reverse-engineering/
+* https://russtone.io/2017/02/14/bssidessf-2017-flagreceiver
