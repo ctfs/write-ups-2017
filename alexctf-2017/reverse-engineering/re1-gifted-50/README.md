@@ -28,3 +28,4 @@ And among a few unintelligible strings and prompts, we find the flag:
  * http://drizbit.com/post/alexctf-reverse-engineering-2017/
  * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/RE1-Gifted/README.md
  * http://www.aucyberclub.org/blog/2017/02/12/alexctfre1writeup.html
+ * http://countersite.org/articles/reverse_engineering/136-revers-s-alexctf-2017.html

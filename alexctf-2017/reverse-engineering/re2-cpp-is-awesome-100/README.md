@@ -28,3 +28,5 @@
  * https://github.com/ChalmersCTF/Writeups/tree/master/AlexCTF%202017-02-05/re2
  * http://drizbit.com/post/alexctf-reverse-engineering-2017/
  * http://g4ngli0s.logdown.com/posts/1390244-alexctf2017-re2-c-is-awesome
+ * http://countersite.org/articles/reverse_engineering/136-revers-s-alexctf-2017.html
+ * http://dann.com.br/alexctf2k17-rev100-c-_is_awesome/
