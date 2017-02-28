@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Author's Writeup](https://github.com/cstanfill/sidh-writeup)
