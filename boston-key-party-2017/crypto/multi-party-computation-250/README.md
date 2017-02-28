@@ -15,4 +15,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [cinsects](https://cinsects.de/boston-key-party-2017-multi-party-computation.html)
+* [greunion](http://www.rogdham.net/2017/02/27/boston-key-party-2017-write-ups.en)
+* https://gist.github.com/elliptic-shiho/d72668a375e0d681b00138a212de9a7d
