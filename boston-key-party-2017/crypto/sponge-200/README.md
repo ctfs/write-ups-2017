@@ -10,7 +10,7 @@
 >
 > <http://54.202.194.91:12345>
 >
-> [hash.py](http://ctf.bostonkey.party/files/933896caa327762dc320053285d1b204/hash.py)
+> [hash.py](hash.py)
 
 ## Write-up
 

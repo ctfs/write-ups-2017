@@ -13,7 +13,7 @@
 > update 7:10 UTC Saturday: the traffic in the pcap with 162.125.18.133 is not
 > relevant to the challenge
 >
-> [accesslog....](http://ctf.bostonkey.party/files/7071a751aed6dbc599864ab66f183d24/accesslog.pcap)
+> [accesslog.pcap](accesslog.pcap)
 
 ## Write-up
 

@@ -13,7 +13,7 @@
 >
 > Connect via TCP, 54.202.194.91:65535
 >
-> [mineswee...](http://ctf.bostonkey.party/files/602b11e9052b95f61128d35653efb110/minesweeper.go)
+> [mineswee...](minesweeper.go)
 
 ## Write-up
 
