@@ -13,7 +13,7 @@
 >
 > Connect via TCP, 54.202.194.91:65535
 >
-> [mineswee...](http://ctf.bostonkey.party/files/602b11e9052b95f61128d35653efb110/minesweeper.go)
+> [minesweeper.go](minesweeper.go)
 
 ## Write-up
 
@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [BORG](https://gist.github.com/duckythescientist/f46036b1b13c9e5751eae9026c04c444)
+* [p4](https://github.com/p4-team/ctf/tree/master/2017-02-25-bkp/minesweeper)

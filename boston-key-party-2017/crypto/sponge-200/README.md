@@ -10,7 +10,7 @@
 >
 > <http://54.202.194.91:12345>
 >
-> [hash.py](http://ctf.bostonkey.party/files/933896caa327762dc320053285d1b204/hash.py)
+> [hash.py](hash.py)
 
 ## Write-up
 
@@ -18,4 +18,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [The Northern Coalition](https://gist.github.com/HoLyVieR/790d19c294e138ebd9993ed029bd85ad)
+* [greunion](http://www.rogdham.net/2017/02/27/boston-key-party-2017-write-ups.en)
+* [p4](https://github.com/p4-team/ctf/tree/master/2017-02-25-bkp/sponge)
+* https://gist.github.com/elliptic-shiho/e06d961508b0e32ecd942179926e7197

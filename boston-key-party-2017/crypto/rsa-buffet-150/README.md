@@ -9,7 +9,7 @@
 > with. (See encrypter.py for details of the encryption format.) Decrypt any 3
 > files, and recover the key from the secret share!
 >
-> [rsa-buffet.tar....](http://ctf.bostonkey.party/files/fdf38c07dd5986643944c0a916a618e6/rsa-buffet.tar.bz2)
+> [rsa-buffet.tar.bz2](rsa-buffet.tar.bz2)
 
 ## Write-up
 
@@ -17,4 +17,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Hackeriet](http://blog.hackeriet.no/eating-a-rsa-buffet/)
+* [Capture the Swag](https://ctf.rip/bkp2017-rsabuffet/)
+* https://gist.github.com/elliptic-shiho/5fb8e9b74abb90639def7d919dad08a9

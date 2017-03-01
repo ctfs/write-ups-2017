@@ -9,7 +9,11 @@
 
 ## External write-ups only
 
-* none yet
+* [crypto/rsa-buffet-150](crypto/rsa-buffet-150)
+* [crypto/sponge-200](crypto/sponge-200)
+* [crypto/multi-party-computation-250](crypto/multi-party-computation-250)
+* [crypto/minesweeper-350](crypto/minesweeper-350)
+* [crypto/sidh-rsa-aes128-gcm-sha256-600](crypto/sidh-rsa-aes128-gcm-sha256-600)
 
 ## Missing write-ups
 
@@ -18,10 +22,6 @@
 * [pwn/hiddensc-200](pwn/hiddensc-200)
 * [pwn/memo-300](pwn/memo-300)
 * [pwn/barewithme-750](pwn/barewithme-750)
-* [crypto/rsa-buffet-150](crypto/rsa-buffet-150)
-* [crypto/sponge-200](crypto/sponge-200)
-* [crypto/minesweeper-350](crypto-minesweeper-350)
-* [crypto/sidh-rsa-aes128-gcm-sha256-600](crypto/sidh-rsa-aes128-gcm-sha256-600)
 * [cloud/sanity-check-1](cloud/sanity-check-1)
 * [cloud/prudentialv2-50](cloud/prudentialv2-50)
 * [cloud/wackusensor-100](cloud/wackusensor-100)
