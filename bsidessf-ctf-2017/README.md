@@ -2,6 +2,7 @@
 
 * <https://bsidessf.com/ctf.html>
 * [Scoreboard](https://scoreboard.ctf.bsidessf.com/scoreboard) or [local alternative](scoreboard)
+* [Source repo](https://github.com/BSidesSF/ctf-2017-release)
 
 ## Completed write-ups
 
