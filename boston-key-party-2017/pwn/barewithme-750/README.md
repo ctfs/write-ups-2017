@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [jeffball](https://github.com/jeffball55/ctf_writeups/tree/master/boston_key_party_2017/barewithme)
