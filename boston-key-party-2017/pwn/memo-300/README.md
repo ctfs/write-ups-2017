@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://bannsecurity.com/index.php/home/10-ctf-writeups/40-boston-key-party-2017-memo>
