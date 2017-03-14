@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://jiulongw.github.io/post/boston-key-party-2017-accelerated-zone/>
