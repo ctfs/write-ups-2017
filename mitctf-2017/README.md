@@ -3,7 +3,7 @@
 * <http://mitctf.com/>
 * <https://ctftime.org/event/409>
 * [Scoreboard](http://mitctf.com/scoreboard.html) or
-  [local alternative](scoreboard)
+  [local alternative](scoreboard-1.png)
 
 > Start date: Saturday, March 19th 2017, 10:00:00 am EET  
 > End date: Sunday, March 20th 2017, 04:00:00 pm EET  
