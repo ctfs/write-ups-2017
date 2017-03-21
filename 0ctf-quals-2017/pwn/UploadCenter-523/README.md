@@ -1,0 +1,24 @@
+# 0ctf quals 2017 : UploadCenter
+
+**Category:** Pwn
+**Points:** 523
+**Solves:** 
+**Description:**
+
+> There's an upload server here.
+> 
+> Upload whatever you want.
+> 
+> nc 202.120.7.216 12345
+> 
+> 
+> binary <http://dl.0ops.net/[uploadcenter_5f1e953dffe476a418a93d2c9e40fbdc](./uploadcenter_5f1e953dffe476a418a93d2c9e40fbdc>)
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
