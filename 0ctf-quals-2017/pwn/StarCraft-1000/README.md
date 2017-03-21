@@ -11,9 +11,9 @@
 > nc 202.120.7.212 12321
 > 
 > 
-> binary <http://dl.0ops.net/[StarCraft_ea272462056023a38f1731f347c89492](./StarCraft_ea272462056023a38f1731f347c89492>)
+> [StarCraft_ea272462056023a38f1731f347c89492](./StarCraft_ea272462056023a38f1731f347c89492)
 > 
-> libc.so.6 <http://dl.0ops.net/[libc.so.6_0ed9bad239c74870ed2db31c735132ce](./libc.so.6_0ed9bad239c74870ed2db31c735132ce>)
+> [libc.so.6_0ed9bad239c74870ed2db31c735132ce](./libc.so.6_0ed9bad239c74870ed2db31c735132ce)
 > 
 > 
 > Hint: Do you know Splay and Segment tree?

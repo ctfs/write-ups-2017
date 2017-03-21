@@ -13,7 +13,7 @@
 > 
 > Clang && LLVM Version: 3.9.1
 > 
-> link <http://dl.0ops.net/[zer0llvm.tar.gz](./zer0llvm.tar.gz>)
+> link [zer0llvm.tar.gz](./zer0llvm.tar.gz)
 > 
 > flag format: flag{seed}
 

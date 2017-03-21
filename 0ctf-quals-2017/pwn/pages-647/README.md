@@ -8,7 +8,7 @@
 > we have many many pages
 > 
 > 
-> <http://dl.0ops.net/[pages_d9a22948ada76c76fcd1658457d51b61](./pages_d9a22948ada76c76fcd1658457d51b61>)
+> [pages_d9a22948ada76c76fcd1658457d51b61](./pages_d9a22948ada76c76fcd1658457d51b61)
 > 
 > nc 202.120.7.198 13579
 

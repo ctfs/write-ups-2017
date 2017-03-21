@@ -12,7 +12,7 @@
 > nc 202.120.7.216 12345
 > 
 > 
-> binary <http://dl.0ops.net/[uploadcenter_5f1e953dffe476a418a93d2c9e40fbdc](./uploadcenter_5f1e953dffe476a418a93d2c9e40fbdc>)
+> [uploadcenter_5f1e953dffe476a418a93d2c9e40fbdc](./uploadcenter_5f1e953dffe476a418a93d2c9e40fbdc)
 
 
 ## Write-up

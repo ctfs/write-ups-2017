@@ -7,7 +7,7 @@
 
 > Well, maybe the previous one is too simple. So I designed the ultimate one to protect the top secret!
 > 
-> [oneTimePad2.zip](./oneTimePad2.zip) <http://dl.0ops.net/[oneTimePad2.zip](./oneTimePad2.zip>)
+> [oneTimePad2.zip](./oneTimePad2.zip)
 
 ## Write-up
 

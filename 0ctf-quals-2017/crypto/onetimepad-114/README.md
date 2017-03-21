@@ -7,7 +7,7 @@
 
 > I swear that the safest cryptosystem is used to encrypt the secret!
 > 
-> [oneTimePad.zip](./oneTimePad.zip) <http://dl.0ops.net/[oneTimePad.zip](./oneTimePad.zip>)
+> [oneTimePad.zip](./oneTimePad.zip)
 
 ## Write-up
 

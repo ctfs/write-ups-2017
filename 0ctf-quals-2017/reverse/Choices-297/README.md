@@ -12,7 +12,7 @@
 > Clang && LLVM Version: 3.9.1
 > 
 > 
-> link <http://dl.0ops.net/[choices.tar.gz](./choices.tar.gz>)
+> link [choices.tar.gz](./choices.tar.gz)
 
 ## Write-up
 

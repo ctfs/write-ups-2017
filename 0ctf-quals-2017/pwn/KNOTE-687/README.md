@@ -13,7 +13,7 @@
 > nc 202.120.7.196 13134
 > 
 > 
-> KNOTE <http://dl.0ops.net/[knote_faba37a1e4adc15d79dbd1cdf708c22a.tar.gz](./knote_faba37a1e4adc15d79dbd1cdf708c22a.tar.gz>)
+> [knote_faba37a1e4adc15d79dbd1cdf708c22a.tar.gz](./knote_faba37a1e4adc15d79dbd1cdf708c22a.tar.gz)
 > 
 > 
 > (Please test your exploit locally first. Do not disturb the server.)
