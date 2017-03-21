@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [0xD13A](https://0xd13a.github.io/ctfs/0ctf2017/py/)

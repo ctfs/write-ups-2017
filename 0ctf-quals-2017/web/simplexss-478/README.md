@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [LC↯BC](https://ctftime.org/writeup/5956)

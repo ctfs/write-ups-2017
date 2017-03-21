@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [OpenToAll](http://uaf.io/exploitation/2017/03/19/0ctf-Quals-2017-BabyHeap2017.html)

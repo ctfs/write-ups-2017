@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [sec // TODO](https://lekensteyn.nl/0ctf2017-integrity.html)

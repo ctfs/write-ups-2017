@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Snatch The Root](https://grocid.net/2017/03/20/0ctf17-all-crypto-tasks/)

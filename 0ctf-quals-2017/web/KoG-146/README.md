@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [kepler](https://jiulongw.github.io/post/0ctf-2017-kog/)

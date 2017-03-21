@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Dragon Sector](http://blog.dragonsector.pl/2017/03/0ctf-2017-char-shellcoding-132.html)
+* [TheGoonies](https://gist.github.com/rick2600/ae2af7ffd33a17836f06ce191f643b26)

@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [HITCON](https://github.com/mehQQ/public_writeup/tree/master/0ctf2017/engineOnline)

@@ -25,4 +25,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Samurai](https://codegists.com/snippet/python/easiestprintfpy_laxa_python)
+* [Dragon Sector](http://blog.dragonsector.pl/2017/03/0ctf-2017-easiestprintf-pwn-150.html)

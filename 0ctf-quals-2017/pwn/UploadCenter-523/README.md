@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [HITCON](https://github.com/mehQQ/public_writeup/tree/master/0ctf2017/UploadCenter)
+* [Dragon Sector](http://blog.dragonsector.pl/2017/03/0ctf-2017-uploadcenter-pwn-523.html)
