@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [LC↯BC](http://mslc.ctf.su/wp/0ctf-2017-quals-onetimepad-1-and-2/)
+* [binja](https://gist.github.com/elliptic-shiho/0c4ca74230ad02ae68f42ac1673c1114)

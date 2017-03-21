@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [LC↯BC](http://mslc.ctf.su/wp/0ctf-2017-quals-zer0llvm/)
