@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [217](https://david942j.blogspot.tw/2017/03/write-up-0ctf-2017-qual-pwn647-pages.html)
