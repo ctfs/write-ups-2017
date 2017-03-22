@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [courgettes](http://piratefache.ch/0ctf-2017-simplesqlin/)
