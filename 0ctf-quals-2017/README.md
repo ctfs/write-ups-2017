@@ -9,15 +9,8 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [pwn/EasiestPrintf-150](pwn/EasiestPrintf-150)
-* [pwn/gc-687](pwn/gc-687)
 * [pwn/UploadCenter-523](pwn/UploadCenter-523)
-* [pwn/diethard-183](pwn/diethard-183)
-* [pwn/StarCraft-1000](pwn/StarCraft-1000)
 * [pwn/Baby-Heap-2017-255](pwn/Baby-Heap-2017-255)
 * [pwn/engineOnline-578](pwn/engineOnline-578)
 * [pwn/char-130](pwn/char-130)
@@ -26,8 +19,6 @@
 * [reverse/engineTest-261](reverse/engineTest-261)
 * [reverse/py-137](reverse/py-137)
 * [reverse/zer0llvm-1000](reverse/zer0llvm-1000)
-* [reverse/Choices-297](reverse/Choices-297)
-* [web/Temmo's-Tiny-Shop-122](web/Temmo's-Tiny-Shop-122)
 * [web/complicated-xss-177](web/complicated-xss-177)
 * [web/simplesqlin-33](web/simplesqlin-33)
 * [web/KoG-146](web/KoG-146)
@@ -35,5 +26,13 @@
 * [crypto/onetimepad-114](crypto/onetimepad-114)
 * [crypto/integrity-75](crypto/integrity-75)
 * [crypto/onetimepad2-366](crypto/onetimepad2-366)
+
+## Missing write-ups
+
+* [pwn/gc-687](pwn/gc-687)
+* [pwn/diethard-183](pwn/diethard-183)
+* [pwn/StarCraft-1000](pwn/StarCraft-1000)
+* [reverse/Choices-297](reverse/Choices-297)
+* [web/Temmo's-Tiny-Shop-122](web/Temmo's-Tiny-Shop-122)
 * [misc/Survey-32](misc/Survey-32)
 * [misc/Welcome-12](misc/Welcome-12)

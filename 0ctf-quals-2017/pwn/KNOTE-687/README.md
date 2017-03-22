@@ -28,4 +28,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Official Writeup / Source Code](https://github.com/lovelydream/0ctf2017_kernel_pwn)
+* [binja](http://pastebin.com/JdbSJmWm)
