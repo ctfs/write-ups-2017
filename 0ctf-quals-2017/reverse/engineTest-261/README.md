@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* [__bs__](https://r2s4x.github.io/writeup/2017/03/20/0ctf-2017-enginetest-writeup.html)
+* [\_\_bs\_\_](https://r2s4x.github.io/writeup/2017/03/20/0ctf-2017-enginetest-writeup.html)

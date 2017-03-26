@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * [courgettes](http://piratefache.ch/0ctf-2017-simplesqlin/)
+* [rawsec](https://rawsec.ml/en/0CTF-2017-write-ups/#simplesqlin-web)

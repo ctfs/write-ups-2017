@@ -27,3 +27,4 @@
 
 * [Samurai](https://codegists.com/snippet/python/easiestprintfpy_laxa_python)
 * [Dragon Sector](http://blog.dragonsector.pl/2017/03/0ctf-2017-easiestprintf-pwn-150.html)
+* [Balsn](https://poning.me/2017/03/23/EasiestPrintf/)

@@ -18,5 +18,6 @@
 ## Other write-ups and resources
 
 * [sec // TODO](https://lekensteyn.nl/0ctf2017-integrity.html)
-* [integrity](https://gist.github.com/elliptic-shiho/63b97cece15a038678c4a559d01a3055)
+* [binja](https://gist.github.com/elliptic-shiho/63b97cece15a038678c4a559d01a3055)
 * [p4](https://github.com/p4-team/ctf/tree/master/2017-03-18-0ctf-quals/integrity)
+* [OpenToAll](https://devcraft.io/posts/2017/03/20/integrity-0ctf.html)
