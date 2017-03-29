@@ -2,7 +2,7 @@
 
 **Category:** Osint
 **Points:** 200
-**Solves:** 
+**Solves:**
 **Description:**
 
 IP: <http://54.89.146.217/>
@@ -15,4 +15,4 @@ IP: <http://54.89.146.217/>
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/OSINT.md

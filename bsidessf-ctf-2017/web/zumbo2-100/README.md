@@ -21,10 +21,12 @@ Stage 3 - coming soon!
 
 * https://0day.work/bsidessf-ctf-2017-web-writeups/#zumbo1
 * http://fadec0d3.blogspot.com/2017/02/blog-post.html
+* https://team-nawhack.fr/2017/02/16/bsidessf-2017-zimbo-12/
 * https://appsec.engineer/bsides-san-francisco-writeup
 * https://www.youtube.com/watch?v=f0adnppfqF8
 * https://meem67.github.io/blog/2017-02-16/BSidesSF_writeups.html#Zumbo1
 * http://www.i4info.in/2017/02/17/Bsides-CTF/
+* http://dann.com.br/bsidessf2017-zumbo-1-2-and-3/
 * http://www.pogteam.com.br/2017/02/19/bsides-2017-zumbo-123/
 * https://github.com/Ne0Lux-C1Ph3r/WRITE-UP/blob/master/BSidesSF/web/zumbo1.md
 * https://gospelofmark.ch/bsidessf-ctf-zumbo-1.html

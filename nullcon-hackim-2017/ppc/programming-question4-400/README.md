@@ -2,7 +2,7 @@
 
 **Category:** Ppc
 **Points:** 400
-**Solves:** 
+**Solves:**
 **Description:**
 
 TODO
@@ -13,4 +13,4 @@ TODO
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/5607

@@ -19,4 +19,4 @@ The flag is in /home/ctf/flag.txt
 
 ## Other write-ups and resources
 
-* none yet
+* https://nacayoshi00.wordpress.com/2017/02/24/bsides-san-francisco-ctf-writeup/

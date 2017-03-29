@@ -2,7 +2,7 @@
 
 **Category:** Ppc
 **Points:** 300
-**Solves:** 
+**Solves:**
 **Description:**
 
 Dig deeper and try harder
@@ -15,4 +15,5 @@ Dig deeper and try harder
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/unique-nms/nullcon-2017-hackim-prog3
+* https://ctftime.org/writeup/5605

@@ -2,10 +2,10 @@
 
 **Category:** Ppc
 **Points:** 300
-**Solves:** 
+**Solves:**
 **Description:**
 
-Do you think you can win this Jio-Geo challenge ? 
+Do you think you can win this Jio-Geo challenge ?
 52.90.9.177:33333
 
 ## Write-up
@@ -14,4 +14,4 @@ Do you think you can win this Jio-Geo challenge ?
 
 ## Other write-ups and resources
 
-* none yet
+* http://dann.com.br/nullcon-hackim-2017-prog300-jio-geo_challenge/

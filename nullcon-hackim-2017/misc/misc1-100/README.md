@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 You are given some old and new programs to try. The plain-text key is hidden inside these programs.
@@ -15,4 +15,5 @@ You are given some old and new programs to try. The plain-text key is hidden ins
 
 ## Other write-ups and resources
 
-* none yet
+* https://team-nawhack.fr/2017/02/13/nullcon-hackim-2017-misc-1/
+* http://thu11d3r.blogspot.com/2017/02/nullcon-ctf2017misc-100p.html

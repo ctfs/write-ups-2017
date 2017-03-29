@@ -2,7 +2,7 @@
 
 **Category:** Re
 **Points:** 150
-**Solves:** 
+**Solves:**
 **Description:**
 
 I almost fell asleep writing this challenge.
@@ -15,4 +15,4 @@ I almost fell asleep writing this challenge.
 
 ## Other write-ups and resources
 
-* none yet
+* https://r3xnation.wordpress.com/2017/02/17/nullcon-17-breeze/
