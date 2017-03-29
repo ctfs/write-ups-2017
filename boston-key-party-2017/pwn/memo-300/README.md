@@ -19,3 +19,8 @@
 ## Other write-ups and resources
 
 * <https://bannsecurity.com/index.php/home/10-ctf-writeups/40-boston-key-party-2017-memo>
+* <https://github.com/irGeeks/ctf/tree/master/2017-BostonKeyParty/memo>
+* <https://www.amn3s1a.com/blog/writeup/2017/02/25/Boston-Key-Party-CTF-Memo.html>
+* <https://www.youtube.com/watch?v=oONwOfA_oMo>
+* <https://github.com/DMArens/CTF-Writeups/tree/master/2017/BostonKeyParty/memo-exploit300>
+* <https://bannsecurity.com/index.php/home/10-ctf-writeups/40-boston-key-party-2017-memo>

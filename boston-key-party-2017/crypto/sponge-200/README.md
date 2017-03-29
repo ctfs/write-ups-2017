@@ -22,3 +22,4 @@
 * [greunion](http://www.rogdham.net/2017/02/27/boston-key-party-2017-write-ups.en)
 * [p4](https://github.com/p4-team/ctf/tree/master/2017-02-25-bkp/sponge)
 * https://gist.github.com/elliptic-shiho/e06d961508b0e32ecd942179926e7197
+* <https://chc.cs.cornell.edu/writeups/6/>

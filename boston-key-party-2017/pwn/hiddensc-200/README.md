@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pwning.re/2017/02/27/bkp-hidden-sc/>
+* <https://github.com/sebel1010/ctf-writeups/blob/master/2017/boston-key-party/hiddensc.md>

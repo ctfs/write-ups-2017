@@ -21,4 +21,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://losfuzzys.github.io/writeup/2017/02/27/bkpctf2017-signed-shell-server/>
+* <https://github.com/p4-team/ctf/tree/master/2017-02-25-bkp/signed_shell_server>
+* <https://chc.cs.cornell.edu/writeups/6/>
