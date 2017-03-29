@@ -9,10 +9,10 @@
 
 ## Write-up
 
-We're given a `.pyc` file, so we use `uncompyle` to try to turn it back to Python source (note this is python2.7 source):  
+We're given a `.pyc` file, so we use `uncompyle` to try to turn it back to Python source (note this is python2.7 source):
 `uncompyle2 -o unvme.py unvm_me.pyc`
 
-The resulting `unvm.py`:  
+The resulting `unvm.py`:
 
 	#Embedded file name: unvm_me.py
 	import md5
@@ -45,7 +45,7 @@ The resulting `unvm.py`:
 
 	print 'Congratz now you have the flag'
 
-With a bit of inspection, we see that if the flag is the right size - less than 70 characters, and divisible by 5 - the for loop takes the `md5` hash of each 5-digit slice of the input and compares them against each value in the list `md5s`. We can use online lookup tables to lookup the hashes, but first we have to convert them each to hex:  
+With a bit of inspection, we see that if the flag is the right size - less than 70 characters, and divisible by 5 - the for loop takes the `md5` hash of each 5-digit slice of the input and compares them against each value in the list `md5s`. We can use online lookup tables to lookup the hashes, but first we have to convert them each to hex:
 
 	>>> for m in md5s:
 	>>>		print "{:02X}".format(m)
@@ -79,7 +79,7 @@ Note that the 7th hash is one character too short: this is because python got ri
 	938c747c6a051b3e163eb802a325148e MD5 : 28n4b
 	38543c5e820dd9403b57beff6020596d MD5 : 6v3k}
 
-So the flag is:  
+So the flag is:
 `ALEXCTF{dv5d4s2vj8nk43s8d8l6m1n5l67ds9v41n52nv37j481h3d28n4b6v3k}`
 
 ## Other write-ups and resources
@@ -92,6 +92,7 @@ So the flag is:
  * http://mistake.com/
  * http://writeups.ctflearn.com/alexctf-writeups-2/
  * https://www.youtube.com/watch?v=qeGaVVpjOL4
+ * https://github.com/KevOrr/ctf-writeups/tree/master/alexctf-2017/reversing/250-unVM_me
  * https://advancedpersistentjest.com/2017/02/06/writeups-catalyst-unvm-me-unknown-format-mailclient/
  * http://70ry.tistory.com/entry/AlexCTF-Reverse-Engineering
  * https://github.com/pogTeam/writeups/tree/master/2017/AlexCTF/re4

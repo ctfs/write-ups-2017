@@ -9,16 +9,19 @@
 
 ## Write-up
 
-This is the first re challenge, so it's fairly simple. All we need to do is:  
-`$ strings gifted`  
+This is the first re challenge, so it's fairly simple. All we need to do is:
 
-And among a few unintelligible strings and prompts, we find the flag:  
+`$ strings gifted`
+
+And among a few unintelligible strings and prompts, we find the flag:
+
 `AlexCTF{Y0u_h4v3_45t0n15h1ng_futur3_1n_r3v3r5ing}`
 
 ## Other write-ups and resources
 
  * https://gospelofmark.ch/alex-ctf-re1-gifted.html
  * http://fadec0d3.blogspot.com/2017/02/alexctf-2017-reverse-engineering-gifted.html
+ * https://github.com/KevOrr/ctf-writeups/tree/master/alexctf-2017/reversing/50-Gifted
  * https://ngaoopmeo.blogspot.com/2017/02/alexctf-2017write-upre1-gifted.html
  * https://github.com/ginjabenjamin/CTF/blob/master/AlexCTF/RE/RE1/README.md
  * https://drive.google.com/open?id=0B6pr1LpSJl7ieGc2bjBUY3FqQ00
