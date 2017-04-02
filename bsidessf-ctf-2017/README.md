@@ -44,12 +44,12 @@
 * [web/zumbo2-100](web/zumbo2-100)
 * [web/easyauth-30](web/easyauth-30)
 * [web/zumbo3-250](web/zumbo3-250)
+* [pwn/hashecute-100](pwn/hashecute-100)
+* [reversing/easyarm-100](reversing/easyarm-100)
 
 ## Missing write-ups
 
 * [reversing/disarming-400](reversing/disarming-400)
-* [reversing/easyarm-100](reversing/easyarm-100)
-* [pwn/hashecute-100](pwn/hashecute-100)
 * [pwn/steel-mountain-setpoint-350](pwn/steel-mountain-setpoint-350)
 * [pwn/byteme-200](pwn/byteme-200)
 * [misc/locker-150](misc/locker-150)

@@ -21,5 +21,5 @@ The given binary will give you the password... if you meet its criteria!
 * https://github.com/k3ys3r/CTF-WriteUps/blob/master/BSidesSF/Skipper.md
 * https://github.com/ginjabenjamin/CTF/tree/master/BsidesSF/RE/Skipper
 * http://ctfsolutions.blogspot.com/2017/02/bsidessf-ctf-2017.html
+* https://team-nawhack.fr/2017/02/16/bsidessf-2017-skipper/
 * https://github.com/R3dCr3sc3nt/BSidesSF-2017/blob/master/reversing/Skipper/README.md
-

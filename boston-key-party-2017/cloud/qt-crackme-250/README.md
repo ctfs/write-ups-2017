@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://r2s4x.github.io/writeup/2017/03/01/boston-key-party-ctf-2017-qt-crackme-writeup.html>

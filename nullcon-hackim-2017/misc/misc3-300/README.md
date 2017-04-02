@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 300
-**Solves:** 
+**Solves:**
 **Description:**
 
 Key to OPKG is your flag.
@@ -15,4 +15,4 @@ Key to OPKG is your flag.
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/Misc3.md

@@ -2,7 +2,7 @@
 
 **Category:** Re
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 EasyPeasy
@@ -15,4 +15,4 @@ EasyPeasy
 
 ## Other write-ups and resources
 
-* none yet
+* https://r3xnation.wordpress.com/2017/02/17/nullcon-17-easypeasy/

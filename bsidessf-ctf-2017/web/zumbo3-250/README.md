@@ -26,3 +26,4 @@ Three flags await. Can you find them?
 * https://meem67.github.io/blog/2017-02-16/BSidesSF_writeups.html#Zumbo1
 * http://www.i4info.in/2017/02/17/Bsides-CTF/
 * http://www.pogteam.com.br/2017/02/19/bsides-2017-zumbo-123/
+* http://dann.com.br/bsidessf2017-zumbo-1-2-and-3/

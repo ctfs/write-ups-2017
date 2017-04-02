@@ -24,6 +24,8 @@ Stages 2 and 3 - coming soon!
 * http://fadec0d3.blogspot.com/2017/02/blog-post.html
 * https://appsec.engineer/bsides-san-francisco-writeup
 * https://www.youtube.com/watch?v=f0adnppfqF8
+* http://dann.com.br/bsidessf2017-zumbo-1-2-and-3/
+* https://team-nawhack.fr/2017/02/16/bsidessf-2017-zimbo-12/
 * https://meem67.github.io/blog/2017-02-16/BSidesSF_writeups.html#Zumbo1
 * http://www.i4info.in/2017/02/17/Bsides-CTF/
 * http://www.pogteam.com.br/2017/02/19/bsides-2017-zumbo-123/

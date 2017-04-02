@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 300
-**Solves:** 
+**Solves:**
 **Description:**
 
 <http://54.89.146.217/>
@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://team-nawhack.fr/2017/02/14/nullcon-hackim-2017-web3/
+* https://chc.cs.cornell.edu/writeups/5/

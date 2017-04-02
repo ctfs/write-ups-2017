@@ -15,4 +15,4 @@ ARM is being seen more and more, especially in embedded devices. Reversing it is
 
 ## Other write-ups and resources
 
-* none yet
+* https://nacayoshi00.wordpress.com/2017/02/24/bsides-san-francisco-ctf-writeup/

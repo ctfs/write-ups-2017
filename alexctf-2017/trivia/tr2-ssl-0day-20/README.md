@@ -10,9 +10,10 @@
 
 ## Write-up
 
-(TODO)
+As a challenge of recon, for those who don't know from memory, the first step is to search the world wide web for **SSL zero day** which (at least with Google) returns a results page plastered with the term **Heartbleed** (labeled as CVE-2014-0160). The flag is `AlexCTF{Heartbleed}`.
 
 ## Other write-ups and resources
 
- * http://rawsec.ml/en/AlexCTF-2017-write-ups/#20-TR2-SSL-0day-Trivia
- * https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/TR2-SSL_0day/README.md
+ * [Rawsec](http://rawsec.ml/en/AlexCTF-2017-write-ups/#20-TR2-SSL-0day-Trivia)
+ * [R3dCr3sc3nt](https://github.com/R3dCr3sc3nt/AlexCTF/blob/master/TR2-SSL_0day/README.md)
+ * [Serpent Skis](https://github.com/KevOrr/ctf-writeups/blob/master/alexctf-2017/trivia/20-SSL_0day.md)
