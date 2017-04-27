@@ -1,0 +1,166 @@
+#!/usr/bin/python
+
+import sys
+import constants as c
+import devices
+import random
+
+def T16(v):
+    if v < 0:
+        v = ~(-v) + 1
+    return v & 0xFFFF
+
+def F16(v, tc=True):
+    if tc and (v & 0x8000):
+        v = -((~(v - 1))&0xFFFF)
+    return v
+
+HANDLERS = None
+SYSCALLS = None
+
+
+class Machine:
+    debug = False
+    running = False
+    memory = [0] * 65536
+    registers = [0] * 256
+    sockets = [None] * 16
+
+    def __init__(self, program, debug=False):
+        self.debug = debug
+        self.dprint(program)
+        for i in range(len(program)):
+            self.memory[i] = program[i]
+        self.spush(len(program))
+
+        self.sockets[c.STDIN] = devices.StdSocket(self, sys.stdin)
+        self.sockets[c.STDOUT] = devices.StdSocket(self, sys.stdout)
+        self.sockets[c.STDERR] = devices.StdSocket(self, sys.stderr)
+
+    def dprint(self, s):
+        if self.debug:
+            print s
+
+    def regi(self, indx):
+        if indx >= c.ROFF:
+            return indx % len(self.registers)
+        return indx - (12 * self.registers[c.ROFF])
+
+    def spop(self, tc=True):
+        self.registers[c.SP] = T16(self.registers[c.SP] - 1)
+        return F16(self.memory[c.BP - self.registers[c.SP]], tc)
+
+    def spush(self, v):
+        self.memory[c.BP - self.registers[c.SP]] = T16(v)
+        self.registers[c.SP] = T16(self.registers[c.SP] + 1)
+
+    def sprint(self, override=False):
+        stack = [self.memory[c.BP - i] for i in range(self.registers[c.SP])]
+        if override:
+            print [F16(i) for i in stack]
+        else:
+            self.dprint([F16(i) for i in stack])
+
+    def rget(self, r, tc=True):
+        return F16(self.registers[self.regi(r)], tc)
+
+    def rset(self, r, v):
+        self.registers[self.regi(r)] = T16(v)
+
+    def mget(self, addr, tc=True):
+        return F16(self.memory[addr % len(self.memory)], tc)
+
+    def mset(self, addr, v):
+        self.memory[addr % len(self.memory)] = T16(v)
+
+    def step(self):
+        instruction = self.mget(self.registers[c.IP], False)
+        self.registers[c.IP] = T16(self.registers[c.IP] + 1)
+        if instruction in HANDLERS:
+            self.dprint('* %d: %s' % (self.registers[c.IP] - 1, HANDLERS[instruction]))
+            HANDLERS[instruction](self)
+        else:
+            self.dprint('* %d: %s' % (self.registers[c.IP] - 1, instruction))
+            self.spush(instruction)
+        self.sprint()
+
+    def run(self):
+        self.running = True
+        while self.running:
+            self.step()
+        for s in self.sockets:
+            if s:
+                s.wait()
+        return self.spop()
+
+    def nop(self): self.spop()
+    def pop(self): self.rset(self.spop(), self.spop())
+    def push(self): self.spush(self.rget(self.spop()))
+
+    def add(self):
+        the_sum = self.spop() + self.spop()
+        self.spush(the_sum)
+        self.rset(c.MP, the_sum % 0x10000)
+
+    def negate(self): self.spush(-self.spop())
+
+    def multiply(self):
+        the_prd = self.spop() * self.spop()
+        self.spush(the_prd)
+        self.rset(c.MP, the_prd % 0x10000)
+
+    def divide(self): self.spush(self.spop() / self.spop())
+    def iand(self): self.spush(self.spop(False) & self.spop(False))
+    def ior(self): self.spush(self.spop(False) | self.spop(False))
+
+    def compare(self):
+        a = self.spop()
+        b = self.spop()
+        res = 0
+        if a < b:
+            res = -1
+        elif a > b:
+            res = 1
+        self.spush(res)
+
+    def conditional(self):
+        result = self.spop()
+        if result == 0:
+            self.registers[c.IP] += 1
+
+    def jump(self): 
+        dst_ip = self.spop()
+        self.spush(self.registers[c.IP])
+        self.registers[c.IP] = dst_ip
+
+    def read(self): self.spush(self.mget(self.spop(False)))
+    def write(self): self.mset(self.spop(False), self.spop())
+    def syscall(self): SYSCALLS[self.spop()](self)
+    def reserved(self): self.sprint(True)
+
+    def close_socket(self, sckt):
+        if self.sockets[sckt % 16]:
+            self.sockets[sckt % 16].close()
+            self.sockets[sckt % 16] = None
+
+
+    def sys_halt(self):
+        self.running = False
+
+    def sys_write(self):
+        sckt = self.spop()
+        loc = self.spop()
+        ln = self.spop()
+        if loc == 0 and ln == 0:
+            return self.close_socket(sckt)
+        self.sockets[sckt % 16].write(loc, ln)
+
+    def sys_read(self):
+        sckt = self.spop()
+        loc = self.spop()
+        ln = self.spop()
+        if loc == 0 and ln == 0:
+            return self.close_socket(sckt)
+        self.sockets[sckt % 16].read(loc, ln)
+
+# REMAINDER OF THE VM elided for SECURITY BY OBSCURITY.
