@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.rootnetsec.com/picoctf-master-challenge-2/
