@@ -1,7 +1,7 @@
 # Write-ups for Ph0wn CTF 2017
 
-Ph0wn is a CTF dedicated to smart devices.
-The 2017 edition took place on November 29 from 6pm to 2am, in Sophia Antipolis (France).
+**Ph0wn** is a CTF dedicated to **smart devices**.
+The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Antipolis** (France).
 
 - The [event's website](https://ph0wn.org)
 - The event on [CTFTime](https://ctftime.org/event/521)

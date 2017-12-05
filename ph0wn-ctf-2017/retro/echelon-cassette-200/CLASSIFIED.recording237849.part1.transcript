@@ -1,0 +1,20 @@
+[voice1] - "Mister Paul Johnson?"
+[voice2] - "Doctor Paul Johnson. How can I help you?"
+[voice1] - "Hi, I'm Jim Butterfield from Commodore. 
+            I'm calling to warn you about a hidden Microsoft flag 
+            inside your Oric Basic..."
+[voice2] - "Oh, you must be talking about the Easter egg in our Microtan?
+            we've known about it from the beginning: when asked for memory size,
+            enter A and it will display Written by Weiland and Gates.
+            But we removed it in our Oric Basic."
+[voice1] - "No, no, I'm not talking about this simple one.
+            There was a second one they introduced when they provided our second
+            version... When I showed it to Jack's son at the Commodore booth of
+            a CES show, he was enraged. Typing WAIT 6502,1 displayed Microsoft on
+            top of the screen!"
+[voice2] - "Well, I don't think we have this Easter egg: we wrote our own WAIT
+            command in order to give timing functionality."
+[voice1] - "Believe me, you still have the Microsoft flag. We have written a small
+            Basic program that detects the hidden flag in both your Oric-1 and
+            Atmos version. Start your tape recorder, I'm going to send it to you...
+            Run it and you will see Gates Ph0wned you too!"
