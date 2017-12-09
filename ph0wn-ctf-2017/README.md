@@ -12,6 +12,10 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 
 ## External write-ups only
 
+- [misc/helpxmen-stage1-50](./misc/helpxmen-stage1-50)
+- [misc/helpxmen-stage2-100](./misc/helpxmen-stage2-100)
+- [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
+
 ## Missing write-ups
 
 
@@ -33,9 +37,6 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 - [system/interrupted-secrets-200](./system/interrupted-secrets-200)
 - [stegano/toothbrushes-are-crazy-200](./stegano/toothbrushes-are-crazy-200)
 - [dev/apollo-mission-150](./dev/apollo-mission-150)
-- [misc/helpxmen-stage1-50](./misc/helpxmen-stage1-50)
-- [misc/helpxmen-stage2-100](./misc/helpxmen-stage2-100)
-- [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
 - [web/forticam-50](./web/forticam-50)
 
 
