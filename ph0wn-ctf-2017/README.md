@@ -9,6 +9,7 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 ## Completed write-ups
 
 - [reverse/home-alarm-250](./reverse/home-alarm-250)
+- [reverse/weather-station-stage2-150](./exploit/weather-station-stage2-150)
 - [misc/helpxmen-stage1-50](./misc/helpxmen-stage1-50)
 - [misc/helpxmen-stage2-100](./misc/helpxmen-stage2-100)
 - [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
@@ -20,7 +21,6 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 
 
 - [system/weather-station-stage1-50](./system/weather-station-stage1-50)
-- [reverse/weather-station-stage2-150](./exploit/weather-station-stage2-150)
 - [exploit/weather-station-stage3-300](./exploit/weather-station-stage3-300)
 - [hardware/rework1-100](./hardware/rework1-100)
 - [hardware/rework2-200](./hardware/rework2-200)
