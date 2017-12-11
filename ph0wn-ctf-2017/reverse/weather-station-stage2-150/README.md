@@ -17,8 +17,7 @@ the input password.
 
 ```
 [0x0800f520]> iz~Password:
-vaddr=0x08015a64 paddr=0x00025a64 ordinal=104 sz=11 len=10 section=.rodata
-type=ascii string=Password: 
+vaddr=0x08015a64 paddr=0x00025a64 ordinal=104 sz=11 len=10 section=.rodata type=ascii string=Password: 
 [0x08015a64]> axt 0x08015a64
 (nofunc) 0x800d6ec [null] ldrh r4, [r4, r1] 
 [0x08015a64]> axt 0x800d6ec
