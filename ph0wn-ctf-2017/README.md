@@ -9,12 +9,12 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 ## Completed write-ups
 
 - [reverse/home-alarm-250](./reverse/home-alarm-250)
-
-## External write-ups only
-
 - [misc/helpxmen-stage1-50](./misc/helpxmen-stage1-50)
 - [misc/helpxmen-stage2-100](./misc/helpxmen-stage2-100)
 - [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
+
+## External write-ups only
+
 
 ## Missing write-ups
 
