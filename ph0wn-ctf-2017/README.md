@@ -13,6 +13,7 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 - [misc/helpxmen-stage1-50](./misc/helpxmen-stage1-50)
 - [misc/helpxmen-stage2-100](./misc/helpxmen-stage2-100)
 - [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
+- [network/over-the-air-250](./network/over-the-air-250)
 
 ## External write-ups only
 
@@ -33,7 +34,6 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 - [retro/echelon-cassette-200](./retro/echelon-cassette-200)
 - [retro/ph0wn-invaders-200](./retro/ph0wn-invaders-200])
 - [retro/dont-panic-300](./retro/dont-panic-300)
-- [network/over-the-air-250](./network/over-the-air-250)
 - [system/interrupted-secrets-200](./system/interrupted-secrets-200)
 - [stegano/toothbrushes-are-crazy-200](./stegano/toothbrushes-are-crazy-200)
 - [dev/apollo-mission-150](./dev/apollo-mission-150)

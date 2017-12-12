@@ -1,10 +1,23 @@
 # Ph0wn CTF: Weather station stage 2
 
-**Category**: Reverse, **Points**: 150, **Solves**:
+**Category**: Reverse, **Points**: 150, **Solves**: 4
 
 ## Description
 
-TODO
+You're connected, okay. But, the OEM setup menu is restricted by a password.
+
+Fortunately, the running firmware is provided.
+
+It's time to look inside and see if the password could be recovered.
+
+Advice 1 : The firmware is provided in .elf and .bin format. It's the same version, it's up to you to use your preferred format, but a strong advice is to use the .elf file.
+
+Advice 2: the function at @ 0x800CA88 is only here to hide the flag. Solve this task will never ask you to reverse this complex obfuscation function. If you do, you'll lose time and all the interest of the challenge.
+
+To score this challenge please enter a flag in the form of `Ph0wn{xxxxx}`.
+
+Author: Phil
+
 
 ## Write-up
 
