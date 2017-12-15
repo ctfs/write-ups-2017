@@ -9,19 +9,20 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 ## Completed write-ups
 
 - [reverse/home-alarm-250](./reverse/home-alarm-250)
-- [reverse/weather-station-stage2-150](./exploit/weather-station-stage2-150)
+- [system/weather-station-stage1-50](./system/weather-station-stage1-50)
+- [reverse/weather-station-stage2-150](./reverse/weather-station-stage2-150)
 - [misc/helpxmen-stage1-50](./misc/helpxmen-stage1-50)
 - [misc/helpxmen-stage2-100](./misc/helpxmen-stage2-100)
 - [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
 - [network/over-the-air-250](./network/over-the-air-250)
+- [system/smartb33r-stage1-100](./system/smartb33r-stage1-100)
+- [retro/dont-panic-300](./retro/dont-panic-300)
 
 ## External write-ups only
 
 
 ## Missing write-ups
 
-
-- [system/weather-station-stage1-50](./system/weather-station-stage1-50)
 - [exploit/weather-station-stage3-300](./exploit/weather-station-stage3-300)
 - [hardware/rework1-100](./hardware/rework1-100)
 - [hardware/rework2-200](./hardware/rework2-200)
@@ -29,11 +30,9 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 - [reverse/blackalps-badge1-xtensible-300](./reverse/blackalps-badge1-xtensible-300)
 - [reverse/blackalps-badge2-letsgetgraphical-300](./reverse/blackalps-badge2-letsgetgraphical-300)
 - [exploit/blackalps-badge3-gameover-500](./exploit/blackalps-badge3-gameover-500)
-- [system/smartb33r-stage1-100](./system/smartb33r-stage1-100)
 - [reverse/smartb33r-stage2-200](./reverse/smartb33r-stage2-200)
 - [retro/echelon-cassette-200](./retro/echelon-cassette-200)
 - [retro/ph0wn-invaders-200](./retro/ph0wn-invaders-200])
-- [retro/dont-panic-300](./retro/dont-panic-300)
 - [system/interrupted-secrets-200](./system/interrupted-secrets-200)
 - [stegano/toothbrushes-are-crazy-200](./stegano/toothbrushes-are-crazy-200)
 - [dev/apollo-mission-150](./dev/apollo-mission-150)
