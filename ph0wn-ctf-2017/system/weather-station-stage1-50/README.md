@@ -79,5 +79,5 @@ There we go for the first flag: `Ph0wn{Seri@l port always matter!}`
 
 ## Other write-ups and resources
 
-[SEC-IT](https://blog.sec-it-solutions.fr/write-up/2017/12/05/jla-writeup-ph0wn-1.html)
+TODO
 
