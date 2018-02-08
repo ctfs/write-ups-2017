@@ -120,4 +120,49 @@ print(f.as_binary())
 
 ## Other write-ups and resources
 
-TODO
+### Using Hydrabus (Balda)
+
+Connecting to the device, we are greeted with this message :
+
+```
+Ph0wn Arduino challenge v1.3
+
+Attempting to connect to WPA2 wifi with stage1 pass...
+Stage 2: find the other flag!
+[-] Attempting to connect with stage2 pass...
+[-] Not connected to wifi
+```
+
+A hint on the challenge description tells us that we need to dump the firmware
+to get the flag. Let's go.
+
+I took my Hydrabus and connected its SPI2 interface on the ICSP connector of the
+arduino board.
+
+|ICSP|Hydrabus|Function|
+|----|--------|--------|
+| 1  | PC2    | MISO   |
+| 2  | 3.3v   | 3.3v   |
+| 3  | PB10   | SCK    |
+| 4  | PC3    | MOSI   |
+| 5  | PC1    | CS     |
+| 6  | GND    | GND    |
+
+Once connected, we just need to run the following command to dump the firmware
+:
+```
+avrdude -v -v -v -p m328p -c buspirate -P /dev/hydrabus -U flash:r:/tmp/flash:r
+```
+
+Once completed, running `strings /tmp/flash` shows the first flag :
+
+```
+$ strings /tmp/flash
+ [...]
+Stage1 flag: ph0wn{WeHopeYouLikeAVR}
+ [...]
+```
+>  Note : After discussing with the challenge author, the intended way to solve
+>  this was to simply dump the firmware using DFU, so no extra hardware was
+>  needed.
+
