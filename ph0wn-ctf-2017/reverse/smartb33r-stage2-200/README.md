@@ -19,10 +19,10 @@ Author: Tony Beer
 
 ## Write-up
 
-TODO
-
 The dump of the flash that you got during stage 1 is [here](./flash.raw)
+
+[Balda's solution](./writeup.md)
 
 ## Other write-ups and resources
 
-[here](./writeup.md)
+

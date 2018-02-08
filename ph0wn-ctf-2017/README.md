@@ -17,6 +17,7 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 - [misc/helpxmen-stage3-100](./misc/helpxmen-stage3-100)
 - [network/over-the-air-250](./network/over-the-air-250)
 - [system/smartb33r-stage1-100](./system/smartb33r-stage1-100)
+- [reverse/smartb33r-stage2-200](./reverse/smartb33r-stage2-200)
 - [retro/dont-panic-300](./retro/dont-panic-300)
 
 ## External write-ups only
@@ -30,7 +31,6 @@ The 2017 edition took place on **November 29** from 6pm to 2am, in **Sophia Anti
 - [reverse/blackalps-badge1-xtensible-300](./reverse/blackalps-badge1-xtensible-300)
 - [reverse/blackalps-badge2-letsgetgraphical-300](./reverse/blackalps-badge2-letsgetgraphical-300)
 - [exploit/blackalps-badge3-gameover-500](./exploit/blackalps-badge3-gameover-500)
-- [reverse/smartb33r-stage2-200](./reverse/smartb33r-stage2-200)
 - [retro/echelon-cassette-200](./retro/echelon-cassette-200)
 - [retro/ph0wn-invaders-200](./retro/ph0wn-invaders-200])
 - [system/interrupted-secrets-200](./system/interrupted-secrets-200)
