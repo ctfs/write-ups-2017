@@ -25,4 +25,4 @@ The dump of the flash that you got during stage 1 is [here](./flash.raw)
 
 ## Other write-ups and resources
 
-TODO
+[here](./writeup.md)
