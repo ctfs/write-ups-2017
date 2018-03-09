@@ -25,7 +25,7 @@ These rules exist to keep the repo maintainable and complete. Please consider fo
 2. If there already exists a write-up in the `Write-up` section and you want to add another local write-up:
 	- Add another `Alternative write-up` section above the `Other write-ups and resources` section
 3. Do not add files that have a filesize bigger than 15MB to keep the repo relatively small. Upload the file instead to a service or reference it from somewhere else.
-4. Consider following these [committing rules](https://atom.io/docs/latest/contributing#git-commit-messages). For this repo, we like to use these [emojis](http://www.emoji-cheat-sheet.com/):
+4. Consider following these [committing rules](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages). For this repo, we like to use these [emojis](http://www.emoji-cheat-sheet.com/):
 	* :memo: when adding a write-up to the `Write-up` section of a task
 	* :floppy_disk: when adding resources for a task, e.g. files or scripts
 	* :link: when adding a write-up link to the `Other write-ups and resources` section of a task
