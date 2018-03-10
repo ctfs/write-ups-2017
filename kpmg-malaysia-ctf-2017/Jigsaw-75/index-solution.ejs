@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        #canvas {
+            margin: 0px auto;
+            border: 2px solid #ccc;
+            background-color: #eee;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1>Do you like to play a jigsaw game?</h1>
+    <canvas id="canvas" width="1350" height="300"></canvas>
+	
+    <script src="/js/fabric.min.js"></script>
+    <script>
+    
+        let canvas = new fabric.Canvas('canvas');
+
+        let list = Array.from({
+            length: 75
+        }, (v, k) => k);
+
+        // disable `shuffledList` var because we're 
+        // going to use the original `list`
+        // let shuffledList = list
+
+        let width = 25; // change from 20 to 25
+        let height = 3;	// consider `height` as "row"
+        let c = 0; 		// c is our image counter 
+        
+        // loop the rows
+        for (let h = 0; h < height; h++) {
+        	
+        	// create new variable to record the column number
+        	let column = 0;
+
+            for (let w = 0; w < width; w++) {
+            	var imageNumber = list[h + (column * height)];
+            	var image = `jig${imageNumber}.png`;
+            	console.log("imageNumber", imageNumber);
+                fabric.Image.fromURL(`/img/${image}`, (img) =>{
+                    img.set({
+                        top: 50 + 50 * h,
+                        left: 50 + 50 * w,
+                        width: 50,
+                        height: 50    
+                    });
+                    canvas.add(img).renderAll().setActiveObject(img);
+                });
+                c++;
+                column++;
+            }
+            column = 0;
+        }
+    </script>
+</body>
+
+</htm>
