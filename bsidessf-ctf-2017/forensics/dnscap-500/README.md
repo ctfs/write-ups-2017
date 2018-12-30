@@ -16,6 +16,7 @@ Found this packet capture. Pretty sure there's a flag in here. Can you find it!?
 
 ## Other write-ups and resources
 
+* https://volatilevirus.home.blog/2018/12/30/bsidessf17-ctf-dnscap-write-up/
 * https://github.com/jrmdev/ctf-writeups/tree/master/bsidessf-2017/dnscap
 * https://github.com/Sinkmanu/CTF/blob/master/BSidesSF-2017-dnscap-500.py
 * http://g4ngli0s.logdown.com/posts/1421430-bsidessfctf-for-dnscap
