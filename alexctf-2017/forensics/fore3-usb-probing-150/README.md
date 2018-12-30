@@ -14,7 +14,8 @@
 (TODO)
 
 ## Other write-ups and resources
-
+ 
+ * https://volatilevirus.home.blog/2018/10/13/alex-ctf-2017-fore3-write-up/
  * http://fadec0d3.blogspot.com/2017/02/alexctf-2017-forensics-scripting.html
  * https://github.com/Vigneshwaran16/write-ups-ALEX-CTFhttps://github.com/Vigneshwaran16/write-ups-ALEX-CTF
  * http://thu11d3r.blogspot.com/2017/02/bits-ctf-2017forensic-150p-usb-probbing.html
